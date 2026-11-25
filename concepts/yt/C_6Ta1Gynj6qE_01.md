@@ -11,7 +11,7 @@ class: mixed
 confidence: source_reported
 source_refs: [S_yt_6Ta1Gynj6qE_ar]
 claim_refs: [CL_6Ta1Gynj6qE_01_1, CL_6Ta1Gynj6qE_01_2, CL_6Ta1Gynj6qE_01_3]
-related_concepts: []
+related_concepts: [C_6Ta1Gynj6qE_02, C_6Ta1Gynj6qE_03, C_6Ta1Gynj6qE_04, C_6WXpe5iX3Bc_02]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25
