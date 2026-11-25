@@ -1422,7 +1422,12 @@
       "code": "706JiMTdFds",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_706JiMTdFds_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_706JiMTdFds_01.md",
+        "C_706JiMTdFds_02.md",
+        "C_706JiMTdFds_03.md"
+      ]
     },
     {
       "batch": 103,
