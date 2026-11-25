@@ -1166,7 +1166,8 @@
       "code": "6trl8ii0Yh8",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6trl8ii0Yh8_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مصدر 34 كلمة مجزأة (بقايا حوار + موسيقى) بلا فكرة — بلا ملف"
     },
     {
       "batch": 103,
@@ -1174,7 +1175,10 @@
       "code": "6txkQbMpruI",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6txkQbMpruI_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6txkQbMpruI_01.md"
+      ]
     },
     {
       "batch": 103,
