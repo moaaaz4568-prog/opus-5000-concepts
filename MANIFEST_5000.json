@@ -1504,7 +1504,8 @@
       "code": "74O1dsltIO0",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_74O1dsltIO0_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مقطع متابعة قصير (68 كلمة) عن وضع الطيار الآلي — يعتمد على فيديو سابق، بلا فكرة مستقلة قابلة للبناء — بلا ملف"
     },
     {
       "batch": 103,
