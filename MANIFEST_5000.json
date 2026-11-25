@@ -230,7 +230,11 @@
       "code": "6WgIOKFLrHY",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6WgIOKFLrHY_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6WgIOKFLrHY_01.md",
+        "C_6WgIOKFLrHY_02.md"
+      ]
     },
     {
       "batch": 103,
