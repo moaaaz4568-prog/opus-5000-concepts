@@ -971,7 +971,11 @@
       "code": "6ne0xHbyjsw",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6ne0xHbyjsw_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6ne0xHbyjsw_01.md",
+        "C_6ne0xHbyjsw_02.md"
+      ]
     },
     {
       "batch": 103,
