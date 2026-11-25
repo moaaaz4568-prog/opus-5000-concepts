@@ -11,7 +11,7 @@ class: instrumental
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
 claim_refs: [CL_6VZMWsZeyVQ_04_1, CL_6VZMWsZeyVQ_04_2, CL_6VZMWsZeyVQ_04_3]
-related_concepts: []
+related_concepts: [C_6SMEcjt3Ano_01, C_6Ta1Gynj6qE_03, C_6VZMWsZeyVQ_01, C_6VZMWsZeyVQ_02]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25
@@ -37,6 +37,7 @@ qmd:
 ## الحدود وحالات الفشل
 القوانين مأخوذة من كتاب وتطبيقها في حالة واحدة، لا اختبار مضبوط. الخيار الثالث المرتفع قد يُقصى دائمًا مع عميل محدود الميزانية، والمصدر لا يناقش خطر الإيحاء بالتقزيم (Decoy) أخلاقيًا.
 
+- تنبيه تعميم: المفهوم مستخرج من مصدر واحد (فيديو)؛ طبّقه بعد اختبار في سياقك لأن السياقات تختلف في الموارد والسوق ومرحلة النضج.
 ## أمثلة موسومة
 - **[direct_quote]** القاعدة الأولى كما صيغت: سعر العميل وليس المشروع. (S_yt_6VZMWsZeyVQ_ar)
 - **[direct_quote]** مثال الخيارات الثلاثة لموقع إلكتروني: 7000، 10 آلاف مع هوية بصرية ورسوم إدارة وضمان، 20-25 ألف كحقول أعلى. (S_yt_6VZMWsZeyVQ_ar)

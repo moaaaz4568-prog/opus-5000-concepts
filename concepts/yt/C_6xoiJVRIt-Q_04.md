@@ -11,7 +11,7 @@ class: instrumental
 confidence: source_reported
 source_refs: [S_yt_6xoiJVRIt-Q_ar]
 claim_refs: [CL_6xoiJVRIt-Q_04_1, CL_6xoiJVRIt-Q_04_2, CL_6xoiJVRIt-Q_04_3]
-related_concepts: []
+related_concepts: [C_6QNfK7vPlMU_03, C_6QNfK7vPlMU_05, C_6VMXHKcJ-TY_02, C_6cnJHHWIoS0_05]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25
@@ -37,6 +37,7 @@ qmd:
 ## الحدود وحالات الفشل
 النموذج يفترض عضو فريق ناضجًا يملك «جلدًا سميكًا»؛ المصدر تعترف أن الملاحظات البنّاءة «لا يمكن أن تكون الملاحظات البناءة لطيفة دائماً». لا يقدم بروتوكولًا مكتوبًا للنقد ولا قياسًا لأثر اللغة على جودة المخرجات.
 
+- تنبيه تعميم: المفهوم مستخرج من مصدر واحد (فيديو)؛ طبّقه بعد اختبار في سياقك لأن السياقات تختلف في الموارد والسوق ومرحلة النضج.
 ## أمثلة موسومة
 - **[direct_quote]** تجنب أحكام الذوق لأنها لا توجّه. (S_yt_6xoiJVRIt-Q_ar)
 - **[direct_quote]** عبارات الانفتاح التي تجعل الهدف جماعيًا. (S_yt_6xoiJVRIt-Q_ar)

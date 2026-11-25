@@ -11,7 +11,7 @@ class: causal
 confidence: source_reported
 source_refs: [S_yt_6THKTBueEfI_ar]
 claim_refs: [CL_6THKTBueEfI_01_1, CL_6THKTBueEfI_01_2]
-related_concepts: []
+related_concepts: [C_6RuDYgTrIss_01, C_6THKTBueEfI_02, C_6cvlJm6HZBc_01]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25

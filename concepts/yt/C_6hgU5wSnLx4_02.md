@@ -11,7 +11,7 @@ class: framework
 confidence: source_reported
 source_refs: [S_yt_6hgU5wSnLx4_ar]
 claim_refs: [CL_6hgU5wSnLx4_02_1, CL_6hgU5wSnLx4_02_2]
-related_concepts: []
+related_concepts: [C_6VZMWsZeyVQ_03, C_6VZMWsZeyVQ_06, C_6c1j508Yk20_01]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25

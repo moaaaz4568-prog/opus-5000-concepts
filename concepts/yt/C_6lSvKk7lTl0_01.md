@@ -11,7 +11,7 @@ class: formula
 confidence: source_reported
 source_refs: [S_yt_6lSvKk7lTl0_ar]
 claim_refs: [CL_6lSvKk7lTl0_01_1, CL_6lSvKk7lTl0_01_2, CL_6lSvKk7lTl0_01_3]
-related_concepts: []
+related_concepts: [C_6QpeOt0pVg8_01, C_6YFU39Vfw0E_01, C_6YFU39Vfw0E_02, C_6YNe5Jw9c2Q_01]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25

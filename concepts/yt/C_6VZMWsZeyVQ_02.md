@@ -11,7 +11,7 @@ class: causal
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
 claim_refs: [CL_6VZMWsZeyVQ_02_1]
-related_concepts: []
+related_concepts: [C_6RuDYgTrIss_01, C_6SMEcjt3Ano_01, C_6VZMWsZeyVQ_01, C_6VZMWsZeyVQ_04]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25
@@ -37,6 +37,7 @@ qmd:
 ## الحدود وحالات الفشل
 الدليل قصة واحدة بلا أرقام قبل/بعد موثقة، والـ30% متوسط ذاتي التقييم. الرفع بلا ميزة تنافسية (خبرة/تخصص) قد يفشل كما يقرر المصدر نفسه في مرحلة لاحقة من إطاره.
 
+- تنبيه تعميم: المفهوم مستخرج من مصدر واحد (فيديو)؛ طبّقه بعد اختبار في سياقك لأن السياقات تختلف في الموارد والسوق ومرحلة النضج.
 ## أمثلة موسومة
 - **[direct_quote]** حكاية صديق المنتج الموسيقي: تعديل خلال دقائق ثم زيادة 30% في قيمة مشاريعه من ذلك اليوم. (S_yt_6VZMWsZeyVQ_ar)
 - **[direct_quote]** الادعاء المركزي للحلقة: التسعير المهارة الوحيدة ذات المردود اللحظي. (S_yt_6VZMWsZeyVQ_ar)

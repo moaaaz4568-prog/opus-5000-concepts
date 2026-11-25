@@ -11,7 +11,7 @@ class: descriptive
 confidence: source_reported
 source_refs: [S_yt_6cZIDZr2gE8_ar]
 claim_refs: [CL_6cZIDZr2gE8_02_1, CL_6cZIDZr2gE8_02_2]
-related_concepts: []
+related_concepts: [C_6QpeOt0pVg8_01, C_6eX3C4tDYi8_02, C_6eX3C4tDYi8_04, C_6lSvKk7lTl0_01]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25

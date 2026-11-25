@@ -11,7 +11,7 @@ class: causal
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
 claim_refs: [CL_6VZMWsZeyVQ_03_1, CL_6VZMWsZeyVQ_03_2, CL_6VZMWsZeyVQ_03_3]
-related_concepts: []
+related_concepts: [C_6VZMWsZeyVQ_06, C_6c1j508Yk20_01, C_6cnJHHWIoS0_05, C_6dY9i04fvgQ_01]
 conflict_refs: []
 created: 2026-11-25
 updated: 2026-11-25
@@ -37,6 +37,7 @@ qmd:
 ## الحدود وحالات الفشل
 الإطار مبني على كتاب Blair Enns «Price Creativity» بتعديلات المؤلف، لا على دراسة قياسية. لا يحدد كم مشروعًا يلزم لتكوّن الأنماط، ويقر أن الوصول المتأخر للسوشال سيركل الصحيح يجعل الانتقال صعبًا لاحقًا.
 
+- تنبيه تعميم: المفهوم مستخرج من مصدر واحد (فيديو)؛ طبّقه بعد اختبار في سياقك لأن السياقات تختلف في الموارد والسوق ومرحلة النضج.
 ## أمثلة موسومة
 - **[direct_quote]** تعريف الخبرة عبر الأنماط المتكررة. (S_yt_6VZMWsZeyVQ_ar)
 - **[direct_quote]** الميزة التنافسية الوحيدة للخبير هي الخبرة مهما كان طباعه. (S_yt_6VZMWsZeyVQ_ar)
