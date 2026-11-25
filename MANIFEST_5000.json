@@ -863,7 +863,10 @@
       "code": "6kmAgYsidSg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6kmAgYsidSg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6kmAgYsidSg_01.md"
+      ]
     },
     {
       "batch": 103,
