@@ -1706,7 +1706,10 @@
       "code": "79wogGFVEg8",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_79wogGFVEg8_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_79wogGFVEg8_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -1714,7 +1717,10 @@
       "code": "7AKxIYX0_kk",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7AKxIYX0_kk_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7AKxIYX0_kk_01.md"
+      ]
     },
     {
       "batch": 103,
