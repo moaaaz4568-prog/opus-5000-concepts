@@ -250,7 +250,11 @@
       "code": "6XCBYgfc1os",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6XCBYgfc1os_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6XCBYgfc1os_01.md",
+        "C_6XCBYgfc1os_02.md"
+      ]
     },
     {
       "batch": 103,
