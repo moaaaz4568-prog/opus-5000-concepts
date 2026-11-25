@@ -1513,7 +1513,10 @@
       "code": "74VMTgO8-Lc",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_74VMTgO8-Lc_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_74VMTgO8-Lc_01.md"
+      ]
     },
     {
       "batch": 103,
