@@ -1446,7 +1446,10 @@
       "code": "70j0N8658cU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_70j0N8658cU_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_70j0N8658cU_01.md"
+      ]
     },
     {
       "batch": 103,
