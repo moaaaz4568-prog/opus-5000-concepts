@@ -1155,7 +1155,10 @@
       "code": "6tbVDrZRTsY",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6tbVDrZRTsY_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6tbVDrZRTsY_01.md"
+      ]
     },
     {
       "batch": 103,
