@@ -1524,7 +1524,12 @@
       "code": "74bcqzyxF2A",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_74bcqzyxF2A_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_74bcqzyxF2A_01.md",
+        "C_74bcqzyxF2A_02.md",
+        "C_74bcqzyxF2A_03.md"
+      ]
     },
     {
       "batch": 103,
