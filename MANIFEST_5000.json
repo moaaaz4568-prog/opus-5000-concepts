@@ -1334,7 +1334,13 @@
       "code": "6ySOJ9H4H8E",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6ySOJ9H4H8E_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6ySOJ9H4H8E_01.md",
+        "C_6ySOJ9H4H8E_02.md",
+        "C_6ySOJ9H4H8E_03.md",
+        "C_6ySOJ9H4H8E_04.md"
+      ]
     },
     {
       "batch": 103,
