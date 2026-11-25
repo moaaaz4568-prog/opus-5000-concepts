@@ -41,3 +41,4 @@
 - check.py: إعادة صياغة الاقتباسات مقبولة (مفيش QUOTE_NOT_VERBATIM/NO_QUOTES)، حد الكلمات الأدنى 250 للطراز العميق، دعم sources: في الـfrontmatter.
 - claim_refs/CL_ محذوفة نهائيًا (كانت اتحذفت قبل كده) — التأريض داخل الملف عبر sources + أمثلة المصدر.
 - الأعداد الدقيقة: 109 ملف · 48 done + 2 skipped + 4950 pending من 5000 (ترتيب المانيفست محفوظ).
+- بناء مستمر بالطراز العميق الجديد: C_6_qD8Mcn7TU_01 (AI Native Entrepreneur) — 110 ملف، 49 done + 2 skipped، FAILED 0.
