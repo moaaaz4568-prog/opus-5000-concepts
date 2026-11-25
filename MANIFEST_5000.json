@@ -850,7 +850,12 @@
       "code": "6kjSBlywhmA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6kjSBlywhmA_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6kjSBlywhmA_01.md",
+        "C_6kjSBlywhmA_02.md",
+        "C_6kjSBlywhmA_03.md"
+      ]
     },
     {
       "batch": 103,
