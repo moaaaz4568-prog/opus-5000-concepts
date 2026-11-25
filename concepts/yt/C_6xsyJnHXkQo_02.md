@@ -6,7 +6,7 @@ updated: 2026-11-25
 deepened: false
 deepener: none
 tags: [concept, management, influence, leadership]
-related: [C_6xjxmTZRXJ4_02]
+related: [C_6xsyJnHXkQo_01]
 sources: [S_yt_6xsyJnHXkQo_ar]
 entities: []
 ---
@@ -34,4 +34,4 @@ entities: []
 | نقل ضغط الإدارة للفريق | «دايماً حادف الضغط عليهم من الإدارة» = لا ضهر = انتهى التأثير | امتص الضغط وكن أول من يقف معهم |
 
 ## المصطلحات المرتبطة
-- [[C_6xjxmTZRXJ4_02]] — القواعد اختلفت: الجزء الأول من السلسلة.
+- [[C_6xsyJnHXkQo_01]] — القواعد اختلفت: الجزء الأول من السلسلة.

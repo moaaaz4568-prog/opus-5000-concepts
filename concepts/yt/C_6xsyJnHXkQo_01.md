@@ -6,7 +6,7 @@ updated: 2026-11-25
 deepened: false
 deepener: none
 tags: [concept, management, promotion, leadership]
-related: [C_6xjxmTZRXJ4_03]
+related: [C_6xsyJnHXkQo_02]
 sources: [S_yt_6xsyJnHXkQo_ar]
 entities: []
 ---
@@ -35,4 +35,4 @@ entities: []
 | تشيل شغل الفريق بنفسك | «تنقذ نفسك» ببطولية الشخص الواحد — يبطئ تحكمك | حقّق أهداف المجموعة عبر الأدوار الموزعة |
 
 ## المصطلحات المرتبطة
-- [[C_6xjxmTZRXJ4_03]] — السلطة والتأثير: لماذا لا ينفذ فريقك كلامك رغم منصبك.
+- [[C_6xsyJnHXkQo_02]] — السلطة والتأثير: لماذا لا ينفذ فريقك كلامك رغم منصبك.
