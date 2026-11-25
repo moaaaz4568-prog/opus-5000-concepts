@@ -1731,7 +1731,10 @@
       "code": "7AYRRD003ds",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7AYRRD003ds_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7AYRRD003ds_01.md"
+      ]
     },
     {
       "batch": 103,
