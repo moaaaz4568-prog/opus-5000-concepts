@@ -1698,7 +1698,10 @@
       "code": "794a3HXSEMY",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_794a3HXSEMY_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_794a3HXSEMY_01.md"
+      ]
     },
     {
       "batch": 103,
