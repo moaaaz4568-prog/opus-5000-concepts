@@ -1295,7 +1295,13 @@
       "code": "6xyL6173694",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6xyL6173694_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6xyL6173694_01.md",
+        "C_6xyL6173694_02.md",
+        "C_6xyL6173694_03.md",
+        "C_6xyL6173694_04.md"
+      ]
     },
     {
       "batch": 103,
