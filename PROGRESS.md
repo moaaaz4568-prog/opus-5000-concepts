@@ -42,3 +42,4 @@
 - claim_refs/CL_ محذوفة نهائيًا (كانت اتحذفت قبل كده) — التأريض داخل الملف عبر sources + أمثلة المصدر.
 - الأعداد الدقيقة: 109 ملف · 48 done + 2 skipped + 4950 pending من 5000 (ترتيب المانيفست محفوظ).
 - بناء مستمر بالطراز العميق الجديد: C_6_qD8Mcn7TU_01 (AI Native Entrepreneur) — 110 ملف، 49 done + 2 skipped، FAILED 0.
+- بناء مستمر: 6aWtztAkLXM skipped (مقتطع بلا فكرة) + C_6abSQivbAbM_01 (المعتقد المقيد المتوارث) — 111 ملف، 50 done + 3 skipped، FAILED 0.
