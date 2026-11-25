@@ -798,7 +798,10 @@
       "code": "6i9k-W-_f1M",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6i9k-W-_f1M_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6i9k-W-_f1M_01.md"
+      ]
     },
     {
       "batch": 103,
