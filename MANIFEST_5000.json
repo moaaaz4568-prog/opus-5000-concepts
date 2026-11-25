@@ -923,7 +923,10 @@
       "code": "6mG6tS6WG00",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6mG6tS6WG00_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6mG6tS6WG00_01.md"
+      ]
     },
     {
       "batch": 103,
