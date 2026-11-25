@@ -9,6 +9,7 @@ LEAK = re.compile(r'[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af\u0400-\u04ff]')
 
 def norm(s: str) -> str:
     s = unicodedata.normalize("NFC", s)
+    s = re.sub(r'[\u200b-\u200f\u2060\ufeff]', '', s)
     s = re.sub(r'\s+', ' ', s)
     return s.strip(' ،.؛:«»"\'\n')
 
