@@ -1468,7 +1468,8 @@
       "code": "72ZLzDKRPQE",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_72ZLzDKRPQE_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مقدمة قناة وشكر (203 كلمات) بلا فكرة مستقلة — بلا ملف"
     },
     {
       "batch": 103,
@@ -1476,7 +1477,14 @@
       "code": "72fqGDGaFUU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_72fqGDGaFUU_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_72fqGDGaFUU_01.md",
+        "C_72fqGDGaFUU_02.md",
+        "C_72fqGDGaFUU_03.md",
+        "C_72fqGDGaFUU_04.md",
+        "C_72fqGDGaFUU_05.md"
+      ]
     },
     {
       "batch": 103,
