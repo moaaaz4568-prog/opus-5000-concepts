@@ -4,7 +4,7 @@ import json, re
 from pathlib import Path
 
 m = json.load(open('MANIFEST_5000.json'))
-done_codes = {p.stem.split('_')[1] for p in Path('concepts/yt').glob('C_*.md')}
+done_codes = {re.sub(r'^C_(.+)_\d+$', r'\1', p.stem) for p in Path('concepts/yt').glob('C_*.md')}
 n = 0
 for it in m['items']:
     if it['status'] == 'pending' and it['code'] in done_codes:
