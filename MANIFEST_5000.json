@@ -1134,7 +1134,8 @@
       "code": "6s7eCcDj6tk",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6s7eCcDj6tk_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مصدر 147 كلمة ترجمة آلية مجزأة عن حملات إبداعية، جمل مقطوعة بلا فكرة مكتملة أو أرقام — بلا ملف"
     },
     {
       "batch": 103,
@@ -1142,7 +1143,11 @@
       "code": "6sssOs2yHQg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6sssOs2yHQg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6sssOs2yHQg_01.md",
+        "C_6sssOs2yHQg_02.md"
+      ]
     },
     {
       "batch": 103,
