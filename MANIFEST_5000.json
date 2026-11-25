@@ -837,7 +837,12 @@
       "code": "6jym04eCHPk",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6jym04eCHPk_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6jym04eCHPk_01.md",
+        "C_6jym04eCHPk_02.md",
+        "C_6jym04eCHPk_03.md"
+      ]
     },
     {
       "batch": 103,
