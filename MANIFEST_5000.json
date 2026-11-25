@@ -934,7 +934,12 @@
       "code": "6mQslKy8F4g",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6mQslKy8F4g_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6mQslKy8F4g_01.md",
+        "C_6mQslKy8F4g_02.md",
+        "C_6mQslKy8F4g_03.md"
+      ]
     },
     {
       "batch": 103,
