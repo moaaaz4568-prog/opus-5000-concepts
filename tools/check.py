@@ -26,8 +26,10 @@ def check_concept(path: Path, sources: dict) -> list:
     if not cid_m: return ['NO_CONCEPT_ID']
     cid = cid_m.group(1)
     if cid != path.stem: errs.append('ID_MISMATCH')
-    code = path.stem.split('_')[1]
-    nn = int(path.stem.split('_')[2])
+    m_id = re.fullmatch(r'C_(.+)_([0-9]{2})', path.stem)
+    if not m_id: return ['BAD_FILENAME']
+    code, nn_s = m_id.groups()
+    nn = int(nn_s)
     if not (1 <= nn <= 99): errs.append('BAD_NN')
     if not re.search(r'^source_refs:.*S_yt_' + code, fm, re.M): errs.append('NO_SOURCE_REF')
     h2 = [l[3:].strip() for l in body.splitlines() if l.startswith('## ')]
