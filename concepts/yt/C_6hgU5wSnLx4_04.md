@@ -10,7 +10,6 @@ stage: extracted
 class: descriptive
 confidence: source_reported
 source_refs: [S_yt_6hgU5wSnLx4_ar]
-claim_refs: [CL_6hgU5wSnLx4_04_1, CL_6hgU5wSnLx4_04_2]
 related_concepts: []
 conflict_refs: []
 created: 2026-11-25
@@ -52,5 +51,5 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6hgU5wSnLx4_04_1 | قيمة الظهور على جوجل تبقى رأس مال تسويقي طويل الأجل | S_yt_6hgU5wSnLx4_ar | إجابة سؤال انتهاء SEO | «قيمة الظهور على جوجل ستظل جزءًا من رأس المال التسويقي طويل الأجل للشركات» | direct_quote | الشركات في سوق البحث الأمريكي | رأي خبرة لا توقع كمي بحصص القنوات |
-| CL_6hgU5wSnLx4_04_2 | نقاش نهاية SEO محادثة متكررة منذ 15 عاماً | S_yt_6hgU5wSnLx4_ar | رد على سؤال المحركات البديلة | «كأنها نفس المحادثة كل عام» | direct_quote | صناعة SEO عبر 15 عاماً | لا يثبت صحة أو خطأ الاستنتاج هذه المرة |
+| قيمة الظهور على جوجل تبقى رأس مال تسويقي طويل الأجل | S_yt_6hgU5wSnLx4_ar | إجابة سؤال انتهاء SEO | «قيمة الظهور على جوجل ستظل جزءًا من رأس المال التسويقي طويل الأجل للشركات» | direct_quote | الشركات في سوق البحث الأمريكي | رأي خبرة لا توقع كمي بحصص القنوات |
+| نقاش نهاية SEO محادثة متكررة منذ 15 عاماً | S_yt_6hgU5wSnLx4_ar | رد على سؤال المحركات البديلة | «كأنها نفس المحادثة كل عام» | direct_quote | صناعة SEO عبر 15 عاماً | لا يثبت صحة أو خطأ الاستنتاج هذه المرة |

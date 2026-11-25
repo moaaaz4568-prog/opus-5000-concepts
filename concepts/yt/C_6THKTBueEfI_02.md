@@ -10,7 +10,6 @@ stage: extracted
 class: mechanistic
 confidence: source_reported
 source_refs: [S_yt_6THKTBueEfI_ar]
-claim_refs: [CL_6THKTBueEfI_02_1, CL_6THKTBueEfI_02_2, CL_6THKTBueEfI_02_3]
 related_concepts: ["[[C_6THKTBueEfI_01]]", "[[C_6THKTBueEfI_03]]"]
 conflict_refs: []
 created: 2026-11-25

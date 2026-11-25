@@ -10,7 +10,6 @@ stage: extracted
 class: causal
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
-claim_refs: [CL_6VZMWsZeyVQ_02_1]
 related_concepts: [C_6RuDYgTrIss_01, C_6SMEcjt3Ano_01, C_6VZMWsZeyVQ_01, C_6VZMWsZeyVQ_04]
 conflict_refs: []
 created: 2026-11-25
@@ -53,4 +52,4 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6VZMWsZeyVQ_02_1 | التسعير مهارة مردودها لحظي | S_yt_6VZMWsZeyVQ_ar | مقدمة الحلقة | «التسعير هو المهاره الوحيده في رياده الاعمال اللي هي مردودها لحظي» | direct_quote | بيع الخبرات عبر عروض فنية | قصة واحدة بلا توثيق قبل/بعد |
+| التسعير مهارة مردودها لحظي | S_yt_6VZMWsZeyVQ_ar | مقدمة الحلقة | «التسعير هو المهاره الوحيده في رياده الاعمال اللي هي مردودها لحظي» | direct_quote | بيع الخبرات عبر عروض فنية | قصة واحدة بلا توثيق قبل/بعد |

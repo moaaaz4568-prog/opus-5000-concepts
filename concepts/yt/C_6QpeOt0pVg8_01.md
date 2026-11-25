@@ -10,7 +10,6 @@ stage: extracted
 class: causal
 confidence: source_reported
 source_refs: [S_yt_6QpeOt0pVg8_ar]
-claim_refs: [CL_6QpeOt0pVg8_01_1]
 related_concepts: [C_6cZIDZr2gE8_02, C_6eX3C4tDYi8_02, C_6eX3C4tDYi8_04, C_6lSvKk7lTl0_01]
 conflict_refs: []
 created: 2026-11-25
@@ -53,4 +52,4 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6QpeOt0pVg8_01_1 | المنظور غير المألوف هو ما يوقف التمرير | S_yt_6QpeOt0pVg8_ar | المقدمة، شرح أهمية البرسبكتف | «البرسبكتيف او المنظور لان دي بتبقى حاجه مختلفه على العين العين مش متعوده ان هي تشوفها» | direct_quote | تصميمات فيجوال على اليوتيوب والسوشيال ميديا | لا يثبت ذلك بتجربة قياس نقرات؛ حكم خبرة المصدر فقط |
+| المنظور غير المألوف هو ما يوقف التمرير | S_yt_6QpeOt0pVg8_ar | المقدمة، شرح أهمية البرسبكتف | «البرسبكتيف او المنظور لان دي بتبقى حاجه مختلفه على العين العين مش متعوده ان هي تشوفها» | direct_quote | تصميمات فيجوال على اليوتيوب والسوشيال ميديا | لا يثبت ذلك بتجربة قياس نقرات؛ حكم خبرة المصدر فقط |

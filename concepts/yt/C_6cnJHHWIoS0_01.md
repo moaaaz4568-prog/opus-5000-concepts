@@ -10,7 +10,6 @@ stage: extracted
 class: descriptive
 confidence: source_reported
 source_refs: [S_yt_6cnJHHWIoS0_ar]
-claim_refs: [CL_6cnJHHWIoS0_01_1, CL_6cnJHHWIoS0_01_2]
 related_concepts: []
 conflict_refs: []
 created: 2026-11-25
@@ -52,5 +51,5 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6cnJHHWIoS0_01_1 | معظم الوكالات التي يريد مؤسسوها بيعها غير قابلة للبيع | S_yt_6cnJHHWIoS0_ar | مقدمة الحلقة | «خبر عاجل، معظمها غير قابل للبيع» | direct_quote | وكالات التسويق الرقمي | نسبة الوكالات غير القابلة للبيع أو معايير القابلية |
-| CL_6cnJHHWIoS0_01_2 | فرصة البيع جاءت عبر شبكة علاقات لا عبر استعداد مخطط له | S_yt_6cnJHHWIoS0_ar | قصة البيع | «لم أكن أستعد أو أحضّر لهذا الأمر. شعرتُ وكأن هذه الفرصة قد أتتني بسهولة» | direct_quote | حالة Giant Propeller | أن الشبكات كافية وحدها للبيع دون ملاءمة المستحوذ |
+| معظم الوكالات التي يريد مؤسسوها بيعها غير قابلة للبيع | S_yt_6cnJHHWIoS0_ar | مقدمة الحلقة | «خبر عاجل، معظمها غير قابل للبيع» | direct_quote | وكالات التسويق الرقمي | نسبة الوكالات غير القابلة للبيع أو معايير القابلية |
+| فرصة البيع جاءت عبر شبكة علاقات لا عبر استعداد مخطط له | S_yt_6cnJHHWIoS0_ar | قصة البيع | «لم أكن أستعد أو أحضّر لهذا الأمر. شعرتُ وكأن هذه الفرصة قد أتتني بسهولة» | direct_quote | حالة Giant Propeller | أن الشبكات كافية وحدها للبيع دون ملاءمة المستحوذ |

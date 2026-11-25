@@ -10,7 +10,6 @@ stage: extracted
 class: causal
 confidence: source_reported
 source_refs: [S_yt_6THKTBueEfI_ar]
-claim_refs: [CL_6THKTBueEfI_03_1, CL_6THKTBueEfI_03_2]
 related_concepts: ["[[C_6THKTBueEfI_01]]", "[[C_6THKTBueEfI_02]]"]
 conflict_refs: []
 created: 2026-11-25

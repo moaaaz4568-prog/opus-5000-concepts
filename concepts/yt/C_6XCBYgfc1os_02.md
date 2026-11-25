@@ -10,7 +10,6 @@ stage: extracted
 class: causal
 confidence: source_reported
 source_refs: [S_yt_6XCBYgfc1os_ar]
-claim_refs: [CL_6XCBYgfc1os_02_1]
 related_concepts: [C_6xoiJVRIt-Q_06, C_6XCBYgfc1os_01]
 conflict_refs: []
 created: 2026-11-25
@@ -52,4 +51,4 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6XCBYgfc1os_02_1 | منطق الاعتراض والرد عليه | S_yt_6XCBYgfc1os_ar | رد على اعتراض الحفاظ | «لماذا لا يذهب سيرج ويوظف؟ شخص ما، محرر من مكان لا أعرفه الفلبين من مكان ما في المكسيك للقيام بذلك مقابل حوالي 500 دولار إلى ألف دولار شهرياً» | direct_quote | بناء فرق المحتوى للوكالات | أرقام الإيراد المرجعية غير موثقة |
+| منطق الاعتراض والرد عليه | S_yt_6XCBYgfc1os_ar | رد على اعتراض الحفاظ | «لماذا لا يذهب سيرج ويوظف؟ شخص ما، محرر من مكان لا أعرفه الفلبين من مكان ما في المكسيك للقيام بذلك مقابل حوالي 500 دولار إلى ألف دولار شهرياً» | direct_quote | بناء فرق المحتوى للوكالات | أرقام الإيراد المرجعية غير موثقة |

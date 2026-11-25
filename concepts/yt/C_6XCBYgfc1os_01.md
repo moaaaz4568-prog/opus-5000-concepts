@@ -10,7 +10,6 @@ stage: extracted
 class: framework
 confidence: source_reported
 source_refs: [S_yt_6XCBYgfc1os_ar]
-claim_refs: [CL_6XCBYgfc1os_01_1]
 related_concepts: [C_6WXpe5iX3Bc_01, C_6WXpe5iX3Bc_02]
 conflict_refs: []
 created: 2026-11-25
@@ -52,4 +51,4 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6XCBYgfc1os_01_1 | الهدف بيع بنية تحتية وتنفيذ لا دورات | S_yt_6XCBYgfc1os_ar | مقدمة الجلسة | «لسنا بالضرورة نحن هنا لبيع الدورات التدريبية، نحن هنا لـ بيع البنى التحتية فعلياً التنفيذ» | direct_quote | جلسات تدريب أصحاب الوكالات | لا يوثق نتائج الحضور لاحقًا |
+| الهدف بيع بنية تحتية وتنفيذ لا دورات | S_yt_6XCBYgfc1os_ar | مقدمة الجلسة | «لسنا بالضرورة نحن هنا لبيع الدورات التدريبية، نحن هنا لـ بيع البنى التحتية فعلياً التنفيذ» | direct_quote | جلسات تدريب أصحاب الوكالات | لا يوثق نتائج الحضور لاحقًا |

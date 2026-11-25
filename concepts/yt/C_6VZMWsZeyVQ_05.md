@@ -10,7 +10,6 @@ stage: extracted
 class: framework
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
-claim_refs: [CL_6VZMWsZeyVQ_05_1, CL_6VZMWsZeyVQ_05_2, CL_6VZMWsZeyVQ_05_3]
 related_concepts: ["[[C_6VZMWsZeyVQ_01]]", "[[C_6VZMWsZeyVQ_03]]", "[[C_6VZMWsZeyVQ_04]]", "[[C_6VZMWsZeyVQ_06]]"]
 conflict_refs: []
 created: 2026-11-25

@@ -10,7 +10,6 @@ stage: extracted
 class: framework
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
-claim_refs: [CL_6VZMWsZeyVQ_06_1, CL_6VZMWsZeyVQ_06_2]
 related_concepts: [C_6RuDYgTrIss_01, C_6SMEcjt3Ano_01, C_6Ta1Gynj6qE_03, C_6VZMWsZeyVQ_01]
 conflict_refs: []
 created: 2026-11-25
@@ -53,5 +52,5 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6VZMWsZeyVQ_06_1 | منتجنة الخبرة بسعر ثابت معلن | S_yt_6VZMWsZeyVQ_ar | شرح الطريق الثاني | «انا حبيع لك الموقع بسعر ثابت حيكون سعر موجود عندي لو تدخل موقعي حتشوف خدماتي كل واحده عندها سعر ثابت» | direct_quote | بيع الخبرة بعد التخصص الحاد | اجتهاد المؤلف لا إطار مرجعي أصلي |
-| CL_6VZMWsZeyVQ_06_2 | الخبير يحل مشكلة عامة صدف أن عميلًا عندها | S_yt_6VZMWsZeyVQ_ar | تعريف الخبير | «الخبير لا يحل مشكله العميل الخبير بيحل مشكله صدف انه هذا العميل عنده هذه المشكله» | direct_quote | تمركز الخبير | تعريف فلسفي لا مقياس تشغيلي |
+| منتجنة الخبرة بسعر ثابت معلن | S_yt_6VZMWsZeyVQ_ar | شرح الطريق الثاني | «انا حبيع لك الموقع بسعر ثابت حيكون سعر موجود عندي لو تدخل موقعي حتشوف خدماتي كل واحده عندها سعر ثابت» | direct_quote | بيع الخبرة بعد التخصص الحاد | اجتهاد المؤلف لا إطار مرجعي أصلي |
+| الخبير يحل مشكلة عامة صدف أن عميلًا عندها | S_yt_6VZMWsZeyVQ_ar | تعريف الخبير | «الخبير لا يحل مشكله العميل الخبير بيحل مشكله صدف انه هذا العميل عنده هذه المشكله» | direct_quote | تمركز الخبير | تعريف فلسفي لا مقياس تشغيلي |

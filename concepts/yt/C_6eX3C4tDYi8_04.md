@@ -10,7 +10,6 @@ stage: extracted
 class: descriptive
 confidence: source_reported
 source_refs: [S_yt_6eX3C4tDYi8_ar]
-claim_refs: [CL_6eX3C4tDYi8_04_1, CL_6eX3C4tDYi8_04_2, CL_6eX3C4tDYi8_04_3]
 related_concepts: [C_6QpeOt0pVg8_01, C_6cZIDZr2gE8_02, C_6eX3C4tDYi8_02, C_6lSvKk7lTl0_01]
 conflict_refs: []
 created: 2026-11-25
@@ -52,6 +51,6 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6eX3C4tDYi8_04_1 | يفضل دائمًا عدد أقل من نقاط التثبيت | S_yt_6eX3C4tDYi8_ar | مقطع Pathfinder | «كقاعدة عامة في برنامج Adobe Illustrator، يُفضل دائمًا استخدام عدد أقل من نقاط التثبيت» | direct_quote | تصميم متجهي في Illustrator | قاعدة خبرة لا دراسة تثبت تفوقها في كل الحالات |
-| CL_6eX3C4tDYi8_04_2 | دمج Pathfinder يزيل النقاط الزائدة عند تفعيل التنظيف | S_yt_6eX3C4tDYi8_ar | مقطع Pathfinder | «إذا عدت وقمت بتشغيل هذا الإعداد، ثم نقرت على وظيفة الدمج، فإن برنامج Illustrator يزيل نقاط الارتكاز الزائدة» | direct_quote | أداة Pathfinder وإعداداتها | لا يعالج أدوات أخرى مماثلة |
-| CL_6eX3C4tDYi8_04_3 | النقر على النقاط بالأداة أنظف من الرسم بها | S_yt_6eX3C4tDYi8_ar | مقطع أداة التنعيم | «ينبغي أن يكون مسارك سلساً ومنظماً بطريقة أكثر عملية» | direct_quote | تنعيم المسارات | يعتمد على الشكل المعروض في العرض التوضيحي |
+| يفضل دائمًا عدد أقل من نقاط التثبيت | S_yt_6eX3C4tDYi8_ar | مقطع Pathfinder | «كقاعدة عامة في برنامج Adobe Illustrator، يُفضل دائمًا استخدام عدد أقل من نقاط التثبيت» | direct_quote | تصميم متجهي في Illustrator | قاعدة خبرة لا دراسة تثبت تفوقها في كل الحالات |
+| دمج Pathfinder يزيل النقاط الزائدة عند تفعيل التنظيف | S_yt_6eX3C4tDYi8_ar | مقطع Pathfinder | «إذا عدت وقمت بتشغيل هذا الإعداد، ثم نقرت على وظيفة الدمج، فإن برنامج Illustrator يزيل نقاط الارتكاز الزائدة» | direct_quote | أداة Pathfinder وإعداداتها | لا يعالج أدوات أخرى مماثلة |
+| النقر على النقاط بالأداة أنظف من الرسم بها | S_yt_6eX3C4tDYi8_ar | مقطع أداة التنعيم | «ينبغي أن يكون مسارك سلساً ومنظماً بطريقة أكثر عملية» | direct_quote | تنعيم المسارات | يعتمد على الشكل المعروض في العرض التوضيحي |

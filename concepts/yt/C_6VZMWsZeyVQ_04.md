@@ -10,7 +10,6 @@ stage: extracted
 class: instrumental
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
-claim_refs: [CL_6VZMWsZeyVQ_04_1, CL_6VZMWsZeyVQ_04_2, CL_6VZMWsZeyVQ_04_3]
 related_concepts: ["[[C_6VZMWsZeyVQ_01]]", "[[C_6VZMWsZeyVQ_03]]", "[[C_6VZMWsZeyVQ_05]]", "[[C_6THKTBueEfI_01]]"]
 conflict_refs: []
 created: 2026-11-25

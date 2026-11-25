@@ -10,7 +10,6 @@ stage: extracted
 class: framework
 confidence: source_reported
 source_refs: [S_yt_6VZMWsZeyVQ_ar]
-claim_refs: [CL_6VZMWsZeyVQ_01_1, CL_6VZMWsZeyVQ_01_2]
 related_concepts: [C_6SMEcjt3Ano_01, C_6Ta1Gynj6qE_03, C_6VZMWsZeyVQ_02, C_6VZMWsZeyVQ_04]
 conflict_refs: []
 created: 2026-11-25
@@ -53,5 +52,5 @@ qmd:
 
 | claim_ref | statement | source_ref | locator | quote | evidence_type | scope | what_it_does_not_prove |
 |---|---|---|---|---|---|---|---|
-| CL_6VZMWsZeyVQ_01_1 | في الخدمات العميل دائمًا على حق | S_yt_6VZMWsZeyVQ_ar | ضبط السياق | «في عالم بيع الخدمات العميل دائما على حق» | direct_quote | بيع الخدمات التنفيذية | حكم تعريفي لا دراسة سوق |
-| CL_6VZMWsZeyVQ_01_2 | في الخبرات العميل على خطأ لأنك الموجّه | S_yt_6VZMWsZeyVQ_ar | ضبط السياق | «في عالم بيع الخبرات الوضع مختلف عاده العميل بيكون على خطا» | direct_quote | بيع الخبرة فردًا لفرد | لا يعالج خلاف العميل الخبير بنفس المجال |
+| في الخدمات العميل دائمًا على حق | S_yt_6VZMWsZeyVQ_ar | ضبط السياق | «في عالم بيع الخدمات العميل دائما على حق» | direct_quote | بيع الخدمات التنفيذية | حكم تعريفي لا دراسة سوق |
+| في الخبرات العميل على خطأ لأنك الموجّه | S_yt_6VZMWsZeyVQ_ar | ضبط السياق | «في عالم بيع الخبرات الوضع مختلف عاده العميل بيكون على خطا» | direct_quote | بيع الخبرة فردًا لفرد | لا يعالج خلاف العميل الخبير بنفس المجال |
