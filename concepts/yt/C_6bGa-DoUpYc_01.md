@@ -1,13 +1,12 @@
 ---
 type: concept
-concept_id: C_6bGa-DoUpYc_01
 name: تداول على خلفية إفصاحات الكونغرس: معاملات الأعضاء بيانات عامة ملزمة قانونًا — وقراءتها الآلية مهارة وصول لبيانات السوق الحية
 created: 2026-11-25
 updated: 2026-11-25
 deepened: true
 deepener: opus
 tags: [concept, trading]
-related: []
+related: [C_6_qD8Mcn7TU_01]
 sources: [S_yt_6bGa-DoUpYc_ar]
 entities: []
 ---
