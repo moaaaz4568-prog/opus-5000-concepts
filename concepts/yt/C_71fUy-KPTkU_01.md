@@ -6,7 +6,7 @@ updated: 2026-11-25
 deepened: false
 deepener: none
 tags: [concept, facebook-ads, tiktok-ads, testing]
-related: []
+related: [C_6xyL6173694_01]
 sources: [S_yt_71fUy-KPTkU_ar]
 entities: [Facebook, Instagram, TikTok, Terrence Kruse]
 ---
