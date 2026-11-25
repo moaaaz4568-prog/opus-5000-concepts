@@ -1018,7 +1018,8 @@
       "code": "6p2f1FPG43A",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6p2f1FPG43A_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مصدر 122 كلمة ترجمة آلية مجزأة عن نماذج فيديو، بلا أرقام أو بروتوكول أو فكرة مستقلة قابلة للاستخراج — بلا ملف"
     },
     {
       "batch": 103,
@@ -1026,7 +1027,11 @@
       "code": "6pRqsMUtq7c",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6pRqsMUtq7c_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6pRqsMUtq7c_01.md",
+        "C_6pRqsMUtq7c_02.md"
+      ]
     },
     {
       "batch": 103,
