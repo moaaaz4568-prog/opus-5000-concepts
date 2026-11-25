@@ -1410,7 +1410,11 @@
       "code": "7-kM6pox0OM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7-kM6pox0OM_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7-kM6pox0OM_01.md",
+        "C_7-kM6pox0OM_02.md"
+      ]
     },
     {
       "batch": 103,
