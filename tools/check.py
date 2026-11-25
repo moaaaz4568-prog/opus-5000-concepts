@@ -69,7 +69,8 @@ def main():
     for f in Path('sources').rglob('S_yt_*_ar.md'):
         t = f.read_text(encoding='utf-8')
         t = re.sub(r'^---.*?---\n', '', t, flags=re.S)
-        sources[f.stem.split('_')[2]] = t
+        m = re.fullmatch(r'S_yt_(.+)_ar', f.stem)
+        sources[m.group(1)] = t
     fails = 0
     for p in sorted(concepts_dir.glob('C_*.md')):
         errs = check_concept(p, sources)
