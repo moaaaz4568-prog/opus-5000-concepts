@@ -1074,7 +1074,12 @@
       "code": "6qV-2dw0vz0",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6qV-2dw0vz0_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6qV-2dw0vz0_01.md",
+        "C_6qV-2dw0vz0_02.md",
+        "C_6qV-2dw0vz0_03.md"
+      ]
     },
     {
       "batch": 103,
