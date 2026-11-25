@@ -333,7 +333,10 @@
       "code": "6YzIj6DZomc",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6YzIj6DZomc_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6YzIj6DZomc_01.md"
+      ]
     },
     {
       "batch": 103,
