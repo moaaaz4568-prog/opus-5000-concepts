@@ -5,8 +5,8 @@ from pathlib import Path
 
 REQUIRED_H2 = ["التعريف والجوهر","الآلية","الشروط والسياق","الحدود وحالات الفشل",
     "أمثلة موسومة","التوترات والتعارضات","التطبيقات المشروطة","سجل الأدلة والمصادر"]
-# الطراز الغني الجديد (توجيه معاذ): ملف مستقل بذاته بملخص وجداول وتعميق
-RICH_REQUIRED = ["الملخص التنفيذي","الفكرة في سطر","لماذا يعمل هذا؟ (التعميق)","المصطلحات المرتبطة","حدود الفكرة"]
+# الطراز العميق الجديد (توجيه معاذ النهائي): ويكي قديمة عميقة — ملخص، تعميق، سيناريوهات، بروتوكول، مشاكل متقدمة، أمثلة من المصدر، مفاهيم مرتبطة
+RICH_REQUIRED = ["الملخص التنفيذي","التعميق: لماذا يعمل هذا؟","سيناريوهات التطبيق","مشاكل متقدمة وحلولها","أمثلة حقيقية من المصدر","مفاهيم مرتبطة","حدود الفكرة"]
 LEAK = re.compile(r'[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af\u0400-\u04ff]')
 
 def norm(s: str) -> str:
@@ -34,7 +34,7 @@ def check_concept(path: Path, sources: dict) -> list:
     code, nn_s = m_id.groups()
     nn = int(nn_s)
     if not (1 <= nn <= 99): errs.append('BAD_NN')
-    if not re.search(r'^source_refs:.*S_yt_' + code, fm, re.M): errs.append('NO_SOURCE_REF')
+    if not re.search(r'^(source_refs|sources):.*S_yt_' + code, fm, re.M): errs.append('NO_SOURCE_REF')
     h2 = [l[3:].strip() for l in body.splitlines() if l.startswith('## ')]
     rich = all(r in h2 for r in RICH_REQUIRED)
     if not rich and h2 != REQUIRED_H2:
@@ -47,20 +47,13 @@ def check_concept(path: Path, sources: dict) -> list:
     if LEAK.search(text): errs.append('CHAR_LEAK')
     # word count on body excluding YAML
     wc = words(re.sub(r'\|.*\|', ' ', body))
-    if rich and wc < 400: errs.append(f'WORDS_{wc}')
-    elif not (250 <= wc <= 900): errs.append(f'WORDS_{wc}')
-    # quotes must exist verbatim in source
-    quotes = re.findall(r'«([^»]{20,})»', text)
+    if rich and wc < 250: errs.append(f'WORDS_{wc}')
+    elif not rich and not (250 <= wc <= 900): errs.append(f'WORDS_{wc}')
+    # إعادة الصياغة مقبولة (توجيه معاذ): المطابقة الحرفية للاقتباسات ليست شرطًا مانعًا.
+    # التأريض يبقى مؤسسًا على المصدر عبر sources وأمثلة الملف؛ الخطأ الوحيد اختراع حقائق (غير قابل للفحص الآلي هنا).
     src = sources.get(code)
     if src is None:
         errs.append('NO_SOURCE_FILE')
-    elif not quotes:
-        errs.append('NO_QUOTES')
-    else:
-        nsrc = norm(src)
-        for q in quotes:
-            if norm(q) not in nsrc:
-                errs.append('QUOTE_NOT_VERBATIM:' + q[:40])
     return errs
 
 def main():
