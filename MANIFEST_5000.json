@@ -1537,7 +1537,11 @@
       "code": "74ffmMzhNuM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_74ffmMzhNuM_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_74ffmMzhNuM_01.md",
+        "C_74ffmMzhNuM_02.md"
+      ]
     },
     {
       "batch": 103,
