@@ -58,7 +58,7 @@ def check_concept(path: Path, sources: dict) -> list:
     sec = body.split('## الأخطاء القاتلة',1)[1] if '## الأخطاء القاتلة' in body else ''
     if not sec.strip('|').strip() or '|' not in sec: errs.append('FATAL_ERRORS_NOT_TABLE')
     # 8) التعميق يشمل العناصر الداخلية
-    _dl = next((i for i,l in enumerate(body.splitlines()) if 'التعميق: لماذا تعمل' in l), None)
+    _dl = next((i for i,l in enumerate(body.splitlines()) if 'التعميق: لماذا' in l), None)
     deep = '\n'.join(body.splitlines()[_dl:]) if _dl is not None else ''
     # العناصر الداخلية للتعميق تقبل داخل قسم التعميق أو كأقسام شقيقة في الملف (الترتيب هو الملزم)
     for req,tag in [('الآلية','DEEP_NO_MECHANISM'),('سيناريو','DEEP_NO_SCENARIO'),('مشاكل متقدمة','DEEP_NO_ADVANCED'),('أمثلة حقيقية','DEEP_NO_EXAMPLES')]:
