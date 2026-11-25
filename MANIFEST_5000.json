@@ -164,7 +164,15 @@
       "code": "6VZMWsZeyVQ",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6VZMWsZeyVQ_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6VZMWsZeyVQ_01.md",
+        "C_6VZMWsZeyVQ_02.md",
+        "C_6VZMWsZeyVQ_03.md",
+        "C_6VZMWsZeyVQ_04.md",
+        "C_6VZMWsZeyVQ_05.md",
+        "C_6VZMWsZeyVQ_06.md"
+      ]
     },
     {
       "batch": 103,
