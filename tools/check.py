@@ -48,17 +48,17 @@ def check_concept(path: Path, sources: dict) -> list:
     # قسم البنية/المكونات: أي قسم H2 بعد ملخص (الترتيب هو الملزم حسب توجيه معاذ)
     i_struct = next((i for i,h in enumerate(h2) if i != i_sum and i > 0), -1)
     i_fatal = next((i for i,h in enumerate(h2) if 'الأخطاء القاتلة' in h), -1)
-    i_deep = next((i for i,h in enumerate(h2) if 'التعميق: لماذا' in h), -1)
     i_terms = next((i for i,h in enumerate(h2) if 'المصطلحات المرتبطة' in h), -1)
     if i_sum != 0: errs.append('H2_ORDER:ملخص ليس أول قسم')
     if i_struct == -1: errs.append('H2_ORDER:لا قسم مكونات/بنية/بروتوكول')
     if i_fatal == -1: errs.append('NO_FATAL_ERRORS_TABLE_SECTION')
-    if i_deep == -1: errs.append('NO_DEEPENING_SECTION')
     if i_terms == -1: errs.append('NO_LINKED_TERMS_SECTION')
-    if -1 in (i_sum,i_struct,i_fatal,i_deep,i_terms): return errs
-    if not (i_sum < i_struct < i_fatal < i_deep < i_terms):
-        if i_deep < i_fatal: errs.append('DEEPENING_BEFORE_FATAL_ERRORS')
+    if -1 in (i_sum,i_struct,i_fatal,i_terms): return errs
+    if not (i_sum < i_struct < i_fatal < i_terms):
         errs.append('H2_ORDER:' + ';'.join(h2))
+    # طور الاستخراج: deepened: false وممنوع قسم التعميق (التعميق مرحلة لاحقة منفصلة)
+    if fm.get('deepened','').strip() != 'false': errs.append('DEEPENED_NOT_FALSE')
+    if any('التعميق: لماذا' in h for h in h2): errs.append('FORBIDDEN_DEEPENING_SECTION')
     # جدول داخل الأخطاء القاتلة — وصفوفه حقيقية لا منسوخة من قسم آخر
     parts = re.split(r'^## ', body, flags=re.M)
     fatal_sec = next((p for p in parts if p.startswith('الأخطاء القاتلة')), '')
@@ -72,12 +72,7 @@ def check_concept(path: Path, sources: dict) -> list:
         for r in data_rows:
             if r and r in norm(before_fatal):
                 errs.append('FATAL_ROWS_COPIED_FROM_OTHER_SECTION'); break
-    # 8) التعميق يشمل العناصر الداخلية
-    _dl = next((i for i,l in enumerate(body.splitlines()) if 'التعميق: لماذا' in l), None)
-    deep = '\n'.join(body.splitlines()[_dl:]) if _dl is not None else ''
-    for req,tag in [('الآلية','DEEP_NO_MECHANISM'),('سيناريو','DEEP_NO_SCENARIO'),('مشاكل متقدمة','DEEP_NO_ADVANCED'),('أمثلة حقيقية','DEEP_NO_EXAMPLES')]:
-        if req not in deep and req not in body: errs.append(tag)
-    # 9) المصطلحات المرتبطة آخر قسم
+    # المصطلحات المرتبطة آخر قسم
     if h2[-1] != 'المصطلحات المرتبطة': errs.append('LINKED_TERMS_NOT_LAST')
     # related فارغة مع وجود روابط مفاهيم في المصطلحات المرتبطة = تناقض
     related_raw = fm.get('related', '[]').strip('[] ').strip()
@@ -92,7 +87,7 @@ def check_concept(path: Path, sources: dict) -> list:
         if EMOJI_NUM.search(l): errs.append('FORBIDDEN_EMOJI_NUMBERED'); break
     if LEAK.search(text): errs.append('CHAR_LEAK')
     wc = words(re.sub(r'\|.*\|', ' ', body))
-    if wc < 250: errs.append(f'WORDS_{wc}')
+    if wc < 150: errs.append(f'WORDS_{wc}')
     src = sources.get(code)
     if src is None: errs.append('NO_SOURCE_FILE')
     return errs
