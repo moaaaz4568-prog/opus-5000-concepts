@@ -874,7 +874,12 @@
       "code": "6l1oGEZTyP8",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6l1oGEZTyP8_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6l1oGEZTyP8_01.md",
+        "C_6l1oGEZTyP8_02.md",
+        "C_6l1oGEZTyP8_03.md"
+      ]
     },
     {
       "batch": 103,
