@@ -1614,7 +1614,11 @@
       "code": "76vpxdiT4g0",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_76vpxdiT4g0_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_76vpxdiT4g0_01.md",
+        "C_76vpxdiT4g0_02.md"
+      ]
     },
     {
       "batch": 103,
