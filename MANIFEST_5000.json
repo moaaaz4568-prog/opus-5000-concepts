@@ -1775,7 +1775,12 @@
       "code": "7BaYKWDzSRg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7BaYKWDzSRg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7BaYKWDzSRg_01.md",
+        "C_7BaYKWDzSRg_02.md",
+        "C_7BaYKWDzSRg_03.md"
+      ]
     },
     {
       "batch": 103,
