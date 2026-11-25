@@ -809,7 +809,13 @@
       "code": "6iCoVnJTf0o",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6iCoVnJTf0o_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6iCoVnJTf0o_01.md",
+        "C_6iCoVnJTf0o_02.md",
+        "C_6iCoVnJTf0o_03.md",
+        "C_6iCoVnJTf0o_04.md"
+      ]
     },
     {
       "batch": 103,
