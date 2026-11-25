@@ -425,7 +425,14 @@
       "code": "6bHZCpqS9X8",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6bHZCpqS9X8_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6bHZCpqS9X8_01.md",
+        "C_6bHZCpqS9X8_02.md",
+        "C_6bHZCpqS9X8_03.md",
+        "C_6bHZCpqS9X8_04.md",
+        "C_6bHZCpqS9X8_05.md"
+      ]
     },
     {
       "batch": 103,
@@ -433,7 +440,8 @@
       "code": "6bVk-HytCew",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6bVk-HytCew_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: 136-word After Effects how-to (remove background in 5 steps); rule: source without idea = no file"
     },
     {
       "batch": 103,
@@ -441,7 +449,10 @@
       "code": "6bmvCWfa5SE",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6bmvCWfa5SE_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6bmvCWfa5SE_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -570,7 +581,8 @@
       "code": "6dbhNGbJw7k",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6dbhNGbJw7k_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: 62-word anecdote fragment (sign in yard); rule: source without idea = no file"
     },
     {
       "batch": 103,
@@ -578,7 +590,11 @@
       "code": "6dizAliDEjs",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6dizAliDEjs_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6dizAliDEjs_01.md",
+        "C_6dizAliDEjs_02.md"
+      ]
     },
     {
       "batch": 103,
@@ -586,7 +602,12 @@
       "code": "6dmQJWQgGS0",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6dmQJWQgGS0_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6dmQJWQgGS0_01.md",
+        "C_6dmQJWQgGS0_02.md",
+        "C_6dmQJWQgGS0_03.md"
+      ]
     },
     {
       "batch": 103,
@@ -594,7 +615,10 @@
       "code": "6dpaN8xZyqY",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6dpaN8xZyqY_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6dpaN8xZyqY_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -644,7 +668,13 @@
       "code": "6fLWe5IMR-w",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6fLWe5IMR-w_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6fLWe5IMR-w_01.md",
+        "C_6fLWe5IMR-w_02.md",
+        "C_6fLWe5IMR-w_03.md",
+        "C_6fLWe5IMR-w_04.md"
+      ]
     },
     {
       "batch": 103,
@@ -660,7 +690,11 @@
       "code": "6fQSqwTHRKU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6fQSqwTHRKU_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6fQSqwTHRKU_01.md",
+        "C_6fQSqwTHRKU_02.md"
+      ]
     },
     {
       "batch": 103,
@@ -668,7 +702,8 @@
       "code": "6fdTaNbI4UA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6fdTaNbI4UA_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: 157-word fragmented motivational excerpt with no protocol, numbers or examples; rule: source without idea = no file"
     },
     {
       "batch": 103,
@@ -676,7 +711,11 @@
       "code": "6fdepVB2ksA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6fdepVB2ksA_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6fdepVB2ksA_01.md",
+        "C_6fdepVB2ksA_02.md"
+      ]
     },
     {
       "batch": 103,
