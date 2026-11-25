@@ -1113,7 +1113,11 @@
       "code": "6rEm2bjpxUM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6rEm2bjpxUM_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_6rEm2bjpxUM_01.md",
+        "C_6rEm2bjpxUM_02.md"
+      ]
     },
     {
       "batch": 103,
@@ -1121,7 +1125,8 @@
       "code": "6rnKmh3o6yM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6rnKmh3o6yM_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "reason": "مصدر 65 كلمة مقطوع وسط شرح CTR بلا اكتمال الفكرة — لا يوجد محتوى كافٍ لملف مفهوم"
     },
     {
       "batch": 103,
