@@ -81,3 +81,8 @@
 - من الشغل المباشر (10 مصادر، 44 ملفًا): 7CFtEvqKHyU (3)، 7GF8akj9_ZM (4)، 7GXhj62IC2o (7 — بيع وكالات)، 7G_u-vGuj7g (4 — قصة Fiverr)، 7HGIT4JzFw0 (5 — مدير تسويق جزئي)، 7HOFkJNBfEY (2 — كوراساو)، 7Ihg2xZnHdQ (7 — وكالة مؤثرين)، 7LjFsMQAdhk (4 — بلندر/كومبوزيت)، 7NR3IYMWL-U (5 — قمع دوار)، 7NbBPg1w6Zk (3 — علامة شخصية قابلة للتوسع).
 - وكلاء OpenCode سلّموا حتى الآن ملفات لمصادر منها: 7FLAItgLfkY (7)، 7CO7Uwf_V2k، 7EClLKz_fPY، 7FOJ8gwnNP4، 7TRiY6aHMes، 7VcLY44Hqd8، 7XQga1rrrdU وغيرها؛ 13 وكيلًا ما زالوا يعملون (منهم 7P3iMFO6N9I، 7PWwv_zpbKI، 7PgAH3x3i7k، 7QRAlnl5dt4، 7QsghInShtE) — سلّمهم يُفحص ويُسجل في PROGRESS بعد كل دفعة.
 - ملاحظة: وكلاء النظام الداخلي (Agent tool) رُفضوا من المحرك؛ OpenCode هو محرك التوازي الفعلي.
+
+## 2026-11-25 (Opus) — إغلاق متخلفي الموجة الخمسة
+- الوكلاء الـ13 المعلَّنين «ما زالوا يعملون» (منهم 7P3iMFO6N9I، 7PWwv_zpbKI، 7PgAH3x3i7k، 7QRAlnl5dt4، 7QsghInShtE) لم يسلموا شيئًا وتوقفوا — عولجت يدويًا بالطراز نفسه (استخراج فقط، deepened: false).
+- 9 ملفات جديدة: C_7P3iMFO6N9I_01..03 (سعر مرتبط بنتيجة / الكمية تلغي الحظ / شراء الجمهور + Loom)، C_7PWwv_zpbKI_01 (البساطة والتقارير الصباحية)، C_7PgAH3x3i7k_01..03 (عميل عقيم / هيكل الندوة / عنق زجاجة التمويل)، C_7QRAlnl5dt4_01 (سباق الذكاء الاصطناعي والترخيص)، C_7QsghInShtE_01 (استعادة لوجو بـ Image Trace).
+- الأعداد: 395 ملف مفهوم · 167 done + 13 skipped + 4820 pending من 5000 · check.py = CHECKED 395, FAILED 0 (exit 0) · sync exit 0.
