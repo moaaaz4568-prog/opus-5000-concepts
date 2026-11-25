@@ -1764,7 +1764,10 @@
       "code": "7BQ6ifXhvac",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7BQ6ifXhvac_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7BQ6ifXhvac_01.md"
+      ]
     },
     {
       "batch": 103,
