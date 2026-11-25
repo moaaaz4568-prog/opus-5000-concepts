@@ -5,6 +5,8 @@ from pathlib import Path
 
 REQUIRED_H2 = ["التعريف والجوهر","الآلية","الشروط والسياق","الحدود وحالات الفشل",
     "أمثلة موسومة","التوترات والتعارضات","التطبيقات المشروطة","سجل الأدلة والمصادر"]
+# الطراز الغني الجديد (توجيه معاذ): ملف مستقل بذاته بملخص وجداول وتعميق
+RICH_REQUIRED = ["الملخص التنفيذي","الفكرة في سطر","لماذا يعمل هذا؟ (التعميق)","المصطلحات المرتبطة","حدود الفكرة"]
 LEAK = re.compile(r'[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af\u0400-\u04ff]')
 
 def norm(s: str) -> str:
@@ -34,13 +36,19 @@ def check_concept(path: Path, sources: dict) -> list:
     if not (1 <= nn <= 99): errs.append('BAD_NN')
     if not re.search(r'^source_refs:.*S_yt_' + code, fm, re.M): errs.append('NO_SOURCE_REF')
     h2 = [l[3:].strip() for l in body.splitlines() if l.startswith('## ')]
-    if h2 != REQUIRED_H2:
+    rich = all(r in h2 for r in RICH_REQUIRED)
+    if not rich and h2 != REQUIRED_H2:
         errs.append('H2_SECTIONS:' + ';'.join(h2))
-    if not ('# ' + cid) in text: errs.append('NO_H1_ID')
+    if rich:
+        # الطراز الغني: عنوان H1 وصفي مقبول بدل المعرف، ويجب أن يحوي جداول واقتباسات
+        if not re.search(r'^# ', body, re.M): errs.append('NO_H1')
+        if '|' not in body: errs.append('NO_TABLE')
+    if not ('# ' + cid) in text and not rich: errs.append('NO_H1_ID')
     if LEAK.search(text): errs.append('CHAR_LEAK')
     # word count on body excluding YAML
     wc = words(re.sub(r'\|.*\|', ' ', body))
-    if not (250 <= wc <= 900): errs.append(f'WORDS_{wc}')
+    if rich and wc < 400: errs.append(f'WORDS_{wc}')
+    elif not (250 <= wc <= 900): errs.append(f'WORDS_{wc}')
     # quotes must exist verbatim in source
     quotes = re.findall(r'«([^»]{20,})»', text)
     src = sources.get(code)
