@@ -1587,7 +1587,11 @@
       "code": "76D_LvM_g1Y",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_76D_LvM_g1Y_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_76D_LvM_g1Y_01.md",
+        "C_76D_LvM_g1Y_02.md"
+      ]
     },
     {
       "batch": 103,
