@@ -136,3 +136,6 @@
 - 1 new source (1 file, deepened: false): human-capital economy (3.7% farmers feed 95%, diamonds+defense specialization under constraint).
 - 1 skipped: 7Var8lksxkI — Illustrator tutorial, tool mechanics only.
 - CHECKED 466 FAILED 0; 199 done of 5000.
+## 2026-11-26 (Opus) — batch 7WAStzjjMHY (partial)
+- 1 file (deepened: false): content ownership vs licensing in influencer deals (Torque Law).
+- CHECKED 467 FAILED 0; 200 done of 5000.

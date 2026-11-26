@@ -2599,7 +2599,10 @@
       "code": "7WAStzjjMHY",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7WAStzjjMHY_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7WAStzjjMHY_01.md"
+      ]
     },
     {
       "batch": 103,
