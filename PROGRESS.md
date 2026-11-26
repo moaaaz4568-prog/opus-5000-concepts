@@ -248,3 +248,6 @@
 ## 2026-11-26 (Opus) — batch 7iZ3Mp1ZdhU + 7krrLnkzEf8 + 7ky2HbBasG0
 - 3 new sources (3 files, deepened: false): Super Bowl ads amplify brand perception as-is (fix perception before fun — Coinbase 95% negative, Bud Light needs years of performance); "get famous" is a backwards idea — personal brand = a media entity around something you own (3 of 4 famous people are famous for the wrong thing); channel-as-funnel (tool → comparison → sub-strategies → integrity-framed free call).
 - CHECKED 527 concepts, FAILED 0; sync total done = 239.
+## 2026-11-26 (Opus) — batch 7iev-oSa1pM
+- 1 new source (1 file, deepened: false): multifamily underwriting — cap rate first (5.75% sector rate), NOI = rent - expenses, T12/seller docs with an "they didn't forget the taxes" eye, quick 50% expense rule.
+- CHECKED 536 concepts, FAILED 0; sync total done = 247.
