@@ -161,3 +161,6 @@
 ## 2026-11-26 (Opus) — batch 7Y4Rrmxxi_o + 7YVWfhWpR18 + 7_0OJy0lxNk
 - 3 new sources (3 files, deepened: false): personal relationship as asset; financial realism (assets over employment); 3 pillars of scalable coaching.
 - CHECKED 478 FAILED 0; 206 done of 5000.
+## 2026-11-26 (Opus) — batch 7YANyHZgVbA + 7YJQAlAUQLs
+- 2 new sources (3 files, deepened: false): daily nail (invisible work compounds); cold email 50→2000/day scaling; three-tier funnel (cold/warm/direct-response).
+- CHECKED 481 FAILED 0; 208 done of 5000.
