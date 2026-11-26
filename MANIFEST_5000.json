@@ -3405,7 +3405,11 @@
       "code": "7wFWSz5zcBM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7wFWSz5zcBM_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7wFWSz5zcBM_01.md",
+        "C_7wFWSz5zcBM_02.md"
+      ]
     },
     {
       "batch": 103,
