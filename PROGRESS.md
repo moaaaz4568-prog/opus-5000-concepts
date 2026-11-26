@@ -174,3 +174,6 @@
 - 2 new sources (2 files, deepened: false): course-completion ≠ skill (what you do during/after is the differentiator); single lead-gen channel (yard sign) dictates the whole traditional system.
 - 3 sources skipped: 6X0SrPog0as, 6cz4fOo4_hs (garbled setup-transcript, tool mechanics), 6bVk-HytCew (After Effects counter tutorial) — same class as 17 prior documented skips.
 - CHECKED 489 concepts, FAILED 0; sync total done = 215.
+## 2026-11-26 (Opus) — batch 6fdTaNbI4UA + 6oIaCJ1QeDQ + 6p2f1FPG43A
+- 3 new sources (3 files, deepened: false): saturation paradox (abundance makes great content scarcer, not worthless); Cannes Lions award ≠ profitable ad (simplify, ship what you know); world-model AI scene editing in ad workflows makes adopters hard to compete with.
+- CHECKED 492 concepts, FAILED 0; sync total done = 218.

@@ -718,8 +718,11 @@
       "code": "6fdTaNbI4UA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6fdTaNbI4UA_ar.md",
-      "status": "skipped",
-      "skip_reason": "no independent idea: 157-word fragmented motivational excerpt with no protocol, numbers or examples; rule: source without idea = no file"
+      "status": "done",
+      "skip_reason": "no independent idea: 157-word fragmented motivational excerpt with no protocol, numbers or examples; rule: source without idea = no file",
+      "concept_files": [
+        "C_6fdTaNbI4UA_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -1001,8 +1004,11 @@
       "code": "6oIaCJ1QeDQ",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6oIaCJ1QeDQ_ar.md",
-      "status": "skipped",
-      "reason": "مصدر 269 كلمة مقابلة مترجمة آليًا مشوّهة، بلا فكرة مستقلة أو أرقام — بلا ملف (قاعدة: مصدر بلا فكرة = لا ملف)"
+      "status": "done",
+      "reason": "مصدر 269 كلمة مقابلة مترجمة آليًا مشوّهة، بلا فكرة مستقلة أو أرقام — بلا ملف (قاعدة: مصدر بلا فكرة = لا ملف)",
+      "concept_files": [
+        "C_6oIaCJ1QeDQ_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -1024,8 +1030,11 @@
       "code": "6p2f1FPG43A",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6p2f1FPG43A_ar.md",
-      "status": "skipped",
-      "reason": "مصدر 122 كلمة ترجمة آلية مجزأة عن نماذج فيديو، بلا أرقام أو بروتوكول أو فكرة مستقلة قابلة للاستخراج — بلا ملف"
+      "status": "done",
+      "reason": "مصدر 122 كلمة ترجمة آلية مجزأة عن نماذج فيديو، بلا أرقام أو بروتوكول أو فكرة مستقلة قابلة للاستخراج — بلا ملف",
+      "concept_files": [
+        "C_6p2f1FPG43A_01.md"
+      ]
     },
     {
       "batch": 103,
