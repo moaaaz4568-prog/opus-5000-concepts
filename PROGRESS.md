@@ -117,3 +117,6 @@
 - 1 مصدر جديد (3 ملفات، deepened: false): إمكانية التسليم أولًا، عنق زجاجة 30–50 ألف، ادفع لمن يفعل أفضل منك.
 - 1 مصدر مُتخطى (7RdH38CoT_E): دروس Illustrator لا فكرة عمل مستقلة.
 - الأعداد: 435 ملف مفهوم · 182 done + 14 skipped + 4804 pending من 5000 · check.py = CHECKED 435, FAILED 0 (exit 0) · sync exit 0.
+## 2026-11-26 (Opus) — دفعات 7KMScQOkk_E/7R39Lz0LS_8/7RMdaa0Txvk
+- 3 مصادر جديدة (5 ملفات، deepened: false): الخوارزمية تخدم إبقاء المشاهد، من شق إلى جدار زجاجي، ثلاث فئات أفكار، الإقناع بأنها فكرته، USP بفراغات معبأة.
+- الأعداد: 440 ملف مفهوم · 185 done + 14 skipped + 4801 pending من 5000 · check.py = CHECKED 440, FAILED 0 (exit 0) · sync exit 0.
