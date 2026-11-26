@@ -3223,7 +3223,10 @@
       "code": "7ljTK-p_6OA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7ljTK-p_6OA_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7ljTK-p_6OA_01.md"
+      ]
     },
     {
       "batch": 103,

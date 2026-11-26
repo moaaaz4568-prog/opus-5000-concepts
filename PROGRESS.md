@@ -257,3 +257,5 @@
 - 1 source (2 files, deepened: false): don't route traffic to the homepage (route/industry case study; 1.4 pages/session, 40% continue) — per-service landing pages at homepage quality; future: a thousand homepages, per-client personalization, sell intimately as info access is commoditized.
 ## 2026-11-26 (Opus) — batch 7lipT3kJH8Q (skip)
 - 1 skipped source: 102-word fragment (below extractable threshold) — snippet on being known for solutions in a niche vs a tool/country; no standalone concept.
+## 2026-11-26 (Opus) — batch 7ljTK-p_6OA
+- 1 source (1 file, deepened: false): profit-volume campaign — gross profit per transaction (AOV/CPA math: 3x$50 orders vs $40 blended CPA = $30 profit) over ROAS; retargeting that overcomes the "no" by raising offer value (Amazon bundle model); cash margins not percentage margins.
