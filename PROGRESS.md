@@ -145,3 +145,6 @@
 ## 2026-11-26 (Opus) — batch 7WAStzjjMHY (concept 3)
 - Third concept (deepened: false): FTC clear-and-conspicuous disclosure; platform tools over hashtags; all benefits disclosed.
 - CHECKED 469 FAILED 0; 200 done of 5000.
+## 2026-11-26 (Opus) — batch 7WAStzjjMHY (concept 4)
+- Fourth concept (deepened: false): supervision raises risk — contractual disclosure guidelines + post-launch monitoring with immediate intervention.
+- CHECKED 470 FAILED 0; 200 done of 5000.
