@@ -242,3 +242,6 @@
 ## 2026-11-26 (Opus) — batch 7hiumf7wM-4 + 7hrY7aleHFQ
 - 2 new sources (2 files, deepened: false): three-channel brokerage (acquisitions from other wholesalers + dispositions team + buyout fund, ~20 homes/mo, office tour as acquisition channel); pre-foreclosure paper pipeline (propwire filter, 70%-of-value offer, door-knocking, sell the contract "on paper").
 - CHECKED 529 concepts, FAILED 0; sync total done = 241.
+## 2026-11-26 (Opus) — batch 7i1MPsYHm0U
+- 1 new source (1 file, deepened: false): the system that makes consistency possible — 52 videos/52 weeks, $50/mo → $8k/mo, same person same channel; connect what you already own (control docs per stage), good-enough philosophy, you don't need confidence to be consistent (thumbnail A/B: system's pick won by 10%).
+- CHECKED 532 concepts, FAILED 0; sync total done = 243.

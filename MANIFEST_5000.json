@@ -3135,7 +3135,10 @@
       "code": "7i1MPsYHm0U",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7i1MPsYHm0U_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7i1MPsYHm0U_01.md"
+      ]
     },
     {
       "batch": 103,
