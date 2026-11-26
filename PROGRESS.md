@@ -210,3 +210,6 @@
 - 1 new source (1 file, deepened: false): 3x2x2 ad structure — 12 cards vs 125 combos; creativity = 80% of scroll-stop, extra variation buries the signal (that IS what "ad fatigue" is).
 - 2 skips: 7e14RnmPg_I (Illustrator type tutorial), 7eChmIUHvBk (daily vlog, no thesis) — 24 documented skips.
 - CHECKED 511 concepts, FAILED 0; sync total done = 230.
+## 2026-11-26 (Opus) — batch 7emrOfufwJ4 + 7gCshK2JV0g
+- 2 new sources (2 files, deepened: false): seller financing / subject-to (buy with no bank, no cash — the seller's eligibility is the deal); HELOC discipline gate (not for unmanaged money/low credit/consumer goals — same gate applies to the mortgage itself).
+- CHECKED 515 concepts, FAILED 0; sync total done = 232.
