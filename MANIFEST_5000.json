@@ -2399,7 +2399,14 @@
       "code": "7SNsqDi4kl4",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7SNsqDi4kl4_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7SNsqDi4kl4_01.md",
+        "C_7SNsqDi4kl4_02.md",
+        "C_7SNsqDi4kl4_03.md",
+        "C_7SNsqDi4kl4_04.md",
+        "C_7SNsqDi4kl4_05.md"
+      ]
     },
     {
       "batch": 103,
