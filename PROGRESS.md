@@ -154,3 +154,7 @@
 ## 2026-11-26 (Opus) — batch 7XQsvNJxqHE
 - 1 new source (1 file, deepened: false): extra mortgage payments vs HELOC — locked vs liquid capital.
 - CHECKED 472 FAILED 0; 201 done of 5000.
+## 2026-11-26 (Opus) — batch 7XuLm0sTbis + skips 7WJLD/7VXFW/7XVG/7Tpc
+- 1 new source (1 file, deepened: false): crowded logo case study (St. Francois county).
+- 4 skipped: 51-word teaser, DaVinci + Illustrator tutorials, English-only fragment.
+- CHECKED 475 FAILED 0; 203 done of 5000.

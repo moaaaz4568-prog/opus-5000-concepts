@@ -2472,7 +2472,8 @@
       "code": "7TpcA1eJX4E",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-en/sources/S_yt_7TpcA1eJX4E_en.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: 57-byte English-only truncated source (no Arabic transcript)"
     },
     {
       "batch": 103,
@@ -2535,7 +2536,8 @@
       "code": "7VXFWP7XQlU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7VXFWP7XQlU_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: DaVinci Resolve counter-effect click-through tutorial, tool mechanics only"
     },
     {
       "batch": 103,
@@ -2610,7 +2612,8 @@
       "code": "7WJLDexaUcw",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7WJLDexaUcw_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: 51-word truncated teaser about automation agents, no protocol or example"
     },
     {
       "batch": 103,
@@ -2618,7 +2621,11 @@
       "code": "7WsynpUAPms",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7WsynpUAPms_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7WsynpUAPms_01.md",
+        "C_7WsynpUAPms_02.md"
+      ]
     },
     {
       "batch": 103,
@@ -2648,7 +2655,8 @@
       "code": "7XVG1XP1-jU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7XVG1XP1-jU_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: Illustrator vintage logo texture walkthrough, tool mechanics only"
     },
     {
       "batch": 103,
@@ -2656,7 +2664,10 @@
       "code": "7XuLm0sTbis",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7XuLm0sTbis_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7XuLm0sTbis_01.md"
+      ]
     },
     {
       "batch": 103,
