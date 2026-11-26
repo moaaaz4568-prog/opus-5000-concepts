@@ -101,3 +101,7 @@
 ## 2026-11-26 (Opus) — دفعة 7G3g6DvGiXI
 - 1 مصدر جديد (3 ملفات، deepened: false): C_7G3g6DvGiXI_01..03 (ثلاث طبقات لاستخراج بيانات الخرائط / إثراء البريد بالذكاء الاصطناعي والتحقق الإلزامي / تمييز حقول البيانات).
 - الأعداد: 419 ملف مفهوم · 173 done + 13 skipped + 4814 pending من 5000 · check.py = CHECKED 419, FAILED 0 (exit 0) · sync exit 0.
+
+## 2026-11-26 (Opus) — دفعات 7I9Lii0QWuo/7IjF6fiTXmQ/7JCBrImtoqk/7IwTua4AaRY
+- 4 مصادر جديدة (7 ملفات، deepened: false): ساعة النجاح، السيكولوجي المزدوج (بيع/تسويق)، ربط واتساب بوكيل ذكاء اصطناعي، وتصنيف العملاء (سيئون ×4).
+- الأعداد: 426 ملف مفهوم · 178 done + 13 skipped + 4809 pending من 5000 · check.py = CHECKED 426, FAILED 0 (exit 0) · sync exit 0.
