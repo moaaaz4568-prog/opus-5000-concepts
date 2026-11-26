@@ -2123,7 +2123,12 @@
       "code": "7IzP-ohwy-c",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7IzP-ohwy-c_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7IzP-ohwy-c_01.md",
+        "C_7IzP-ohwy-c_02.md",
+        "C_7IzP-ohwy-c_03.md"
+      ]
     },
     {
       "batch": 103,
