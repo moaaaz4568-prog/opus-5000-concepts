@@ -158,3 +158,6 @@
 - 1 new source (1 file, deepened: false): crowded logo case study (St. Francois county).
 - 4 skipped: 51-word teaser, DaVinci + Illustrator tutorials, English-only fragment.
 - CHECKED 475 FAILED 0; 203 done of 5000.
+## 2026-11-26 (Opus) — batch 7Y4Rrmxxi_o + 7YVWfhWpR18 + 7_0OJy0lxNk
+- 3 new sources (3 files, deepened: false): personal relationship as asset; financial realism (assets over employment); 3 pillars of scalable coaching.
+- CHECKED 478 FAILED 0; 206 done of 5000.
