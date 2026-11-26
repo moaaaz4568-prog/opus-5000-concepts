@@ -267,3 +267,5 @@
 - 1 source (2 files, deepened: false): And-But-Therefore (ABT) storytelling from Randy Olson via Park Howell — agreement/contradiction/resolution, audience at story's heart, Pareto one persona (live ABT built for Jason Swenk's Agency Mastery); and Operator-to-Owner: the 30-day absence test, founder as bottleneck, accidental-agency identity drift.
 ## 2026-11-26 (Opus) — batch 7oSHrU2io0Q
 - 1 source (1 file, deepened: false): RAG knowledge agent over SOPs (n8n + Supabase vector store + OpenAI) — two-agent build (ingest from Drive, chat query), embeddings 1000-char chunks/200 overlap, system-prompt structure overview/tools/rules, mandatory "always pull from vector store" + concise rules.
+## 2026-11-26 (Opus) — batch 7oh5BGWdmWM
+- 1 source (1 file, deepened: false): design as advertising — the camera block as a shaped marketing statement (iPhone 11 Pro loud status symbol vs Pixel 4 humane face-like block); the only un-coverable surface is the marketing asset; form choice = market positioning, not pure function.
