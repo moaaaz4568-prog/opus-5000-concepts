@@ -281,3 +281,5 @@
 - 1 skipped source: Adobe Illustrator tool tutorial (vector ribbon banner) — tool mechanics, no transferable concept.
 ## 2026-11-26 (Opus) — batch 7qt4TcSzc4A
 - 1 source (2 files, deepened: false): the two content traps (influencer: 2M followers, broke, sells hard-won trust to highest bidder with zero control of product; teacher: 2024 all-educational year halved RPM in 12 months — people buy the coach not the coaching); the 4-layer content funnel (audience 500k-1M / inspiration 100-500k / education 10-100k / product 1-10k), 40/25/25 distribution, per-layer success metrics.
+## 2026-11-26 (Opus) — batch 7qzD6t3sh60 (skip)
+- 1 skipped source: 29-word dialogue fragment — below extractable threshold.

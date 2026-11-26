@@ -3354,7 +3354,8 @@
       "code": "7qzD6t3sh60",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7qzD6t3sh60_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "29-word dialogue fragment (casual conversation snippet), no extractable concept (31st documented skip)"
     },
     {
       "batch": 103,
