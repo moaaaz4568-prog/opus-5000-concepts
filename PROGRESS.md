@@ -123,3 +123,6 @@
 ## 2026-11-26 (Opus) — batch 7SsY4Egqe1M + 7T5YRxW1ZHA + 7Ti8CSK_g6Y
 - 3 new sources (8 files, deepened: false): 3-2-1 persona formula, benefits vs specs (iPod), write to one person, product vs offer; color psychology in selling; relationships as currency.
 - CHECKED 449 FAILED 0; 189 done of 5000.
+## 2026-11-26 (Opus) — batch 7SNsqDi4kl4
+- 1 new source (5 files, deepened: false): forced growth / buy the shortcut / symptoms-vs-problem / know your numbers / product complexity.
+- CHECKED 454 FAILED 0; 190 done of 5000.
