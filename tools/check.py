@@ -17,7 +17,7 @@ def words(text: str) -> int:
 def norm(s: str) -> str:
     return re.sub(r'\s+', ' ', s).strip()
 
-def check_concept(path: Path, sources: dict) -> list:
+def check_concept(path: Path, sources: dict, new_template: bool = False) -> list:
     errs = []
     text = path.read_text(encoding='utf-8')
     m = re.match(r'^---\n(.*?)\n---\n', text, re.S)
@@ -51,34 +51,46 @@ def check_concept(path: Path, sources: dict) -> list:
     i_terms = next((i for i,h in enumerate(h2) if 'المصطلحات المرتبطة' in h), -1)
     if i_sum != 0: errs.append('H2_ORDER:ملخص ليس أول قسم')
     if i_struct == -1: errs.append('H2_ORDER:لا قسم مكونات/بنية/بروتوكول')
-    if i_fatal == -1: errs.append('NO_FATAL_ERRORS_TABLE_SECTION')
-    if i_terms == -1: errs.append('NO_LINKED_TERMS_SECTION')
-    if -1 in (i_sum,i_struct,i_fatal,i_terms): return errs
-    if not (i_sum < i_struct < i_fatal < i_terms):
+    if new_template:
+        # توجيه معاذ (2026-11-26): العناوين الملزمة للمرحلة الأولى — الآلية/حدود الفناء/المصدرية —
+        # ومنع قسمَي الأخطاء القاتلة والمصطلحات المرتبطة (للملفات الجديدة من تاريخ التوجيه)
+        if i_fatal != -1: errs.append('FORBIDDEN_FATAL_ERRORS_SECTION')
+        if i_terms != -1: errs.append('FORBIDDEN_LINKED_TERMS_SECTION')
+        for req in ('الآلية','حدود الفناء','المصدرية'):
+            if not any(h.startswith(req) for h in h2): errs.append('MISSING_FIRST_STAGE_H2:' + req)
+        if len(h2) < 2 or not (h2[0] == 'ملخص' and h2[-1] == 'المصدرية'):
+            errs.append('H2_ORDER:' + ';'.join(h2))
+    elif -1 in (i_sum,i_struct,i_fatal,i_terms):
+        errs.append('H2_ORDER:' + ';'.join(h2))
+    elif not (i_sum < i_struct < i_fatal < i_terms):
         errs.append('H2_ORDER:' + ';'.join(h2))
     # طور الاستخراج: deepened: false وممنوع قسم التعميق (التعميق مرحلة لاحقة منفصلة)
     if fm.get('deepened','').strip() != 'false': errs.append('DEEPENED_NOT_FALSE')
     if any('التعميق: لماذا' in h for h in h2): errs.append('FORBIDDEN_DEEPENING_SECTION')
-    # جدول داخل الأخطاء القاتلة — وصفوفه حقيقية لا منسوخة من قسم آخر
+    # جدول داخل الأخطاء القاتلة — لم يعد مطبقًا (القسم ممنوع بتوجيه 2026-11-26)
     parts = re.split(r'^## ', body, flags=re.M)
     fatal_sec = next((p for p in parts if p.startswith('الأخطاء القاتلة')), '')
-    if not fatal_sec.strip('|').strip() or '|' not in fatal_sec:
-        errs.append('FATAL_ERRORS_NOT_TABLE')
-    else:
-        rows = [norm(l) for l in fatal_sec.splitlines() if l.strip().startswith('|')]
-        rows = [r for r in rows if not re.fullmatch(r'\|[\s\-:|]+\|', r)]
-        data_rows = rows[1:]  # بعد صف العناوين
-        before_fatal = body.split('## الأخطاء القاتلة', 1)[0]
-        for r in data_rows:
-            if r and r in norm(before_fatal):
-                errs.append('FATAL_ROWS_COPIED_FROM_OTHER_SECTION'); break
-    # المصطلحات المرتبطة آخر قسم
-    if h2[-1] != 'المصطلحات المرتبطة': errs.append('LINKED_TERMS_NOT_LAST')
-    # related فارغة مع وجود روابط مفاهيم في المصطلحات المرتبطة = تناقض
+    if new_template:
+        pass  # قسم الأخطاء القاتلة ممنوع أصلاً في القالب الجديد
+    elif fatal_sec := next((p for p in parts if p.startswith('الأخطاء القاتلة')), ''):
+        if not fatal_sec.strip('|').strip() or '|' not in fatal_sec:
+            errs.append('FATAL_ERRORS_NOT_TABLE')
+        else:
+            rows = [norm(l) for l in fatal_sec.splitlines() if l.strip().startswith('|')]
+            rows = [r for r in rows if not re.fullmatch(r'\|[\s\-:|]+\|', r)]
+            data_rows = rows[1:]  # بعد صف العناوين
+            before_fatal = body.split('## الأخطاء القاتلة', 1)[0]
+            for r in data_rows:
+                if r and r in norm(before_fatal):
+                    errs.append('FATAL_ROWS_COPIED_FROM_OTHER_SECTION'); break
+    # آخر قسم: المصطلحات المرتبطة (القالب القديم) أو المصدرية (القالب الجديد بتوجيه 2026-11-26)
+    last_expected = 'المصدرية' if new_template else 'المصطلحات المرتبطة'
+    if h2[-1] != last_expected: errs.append('LINKED_TERMS_NOT_LAST' if not new_template else 'SOURCE_SECTION_NOT_LAST')
+    # related فارغة مع وجود روابط مفاهيم في المصطلحات المرتبطة = تناقض (القالب القديم فقط)
     related_raw = fm.get('related', '[]').strip('[] ').strip()
     terms_sec = next((p for p in parts if p.startswith('المصطلحات المرتبطة')), '')
     term_links = re.findall(r'\[\[C_\S+?\]\]', terms_sec)
-    if not related_raw and term_links: errs.append('RELATED_EMPTY_BUT_TERMS_LINKS')
+    if not new_template and not related_raw and term_links: errs.append('RELATED_EMPTY_BUT_TERMS_LINKS')
     # الممنوعات منعًا باتًا
     if 'سجل الأدلة' in body: errs.append('FORBIDDEN_EVIDENCE_LOG')
     if re.search(r'\bCL_', body + fm_block): errs.append('FORBIDDEN_CL_REFS')
@@ -101,8 +113,11 @@ def main():
         m = re.fullmatch(r'S_yt_(.+)_ar', f.stem)
         sources[m.group(1)] = t
     fails = 0
+    import datetime as _dt
+    cutoff = _dt.datetime(2026, 11, 26, 10, 0).timestamp()  # توجيه القالب الجديد
     for p in sorted(concepts_dir.glob('C_*.md')):
-        errs = check_concept(p, sources)
+        new_template = p.stat().st_mtime >= cutoff
+        errs = check_concept(p, sources, new_template=new_template)
         if errs:
             fails += 1
             print(f'{p.name}: {errs}')
