@@ -3342,7 +3342,11 @@
       "code": "7qt4TcSzc4A",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7qt4TcSzc4A_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7qt4TcSzc4A_01.md",
+        "C_7qt4TcSzc4A_02.md"
+      ]
     },
     {
       "batch": 103,
