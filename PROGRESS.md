@@ -223,3 +223,6 @@
 - 1 new source (1 file, deepened: false): for business owners rest means work — recovery produces better ideas, clearer thinking, full energy; don't obey "5 years no vacation" mentors.
 - 1 skip: 7fbMNBMPl6U (Illustrator hidden features) — 25 documented skips.
 - CHECKED 516 concepts, FAILED 0; sync total done = 233.
+## 2026-11-26 (Opus) — batch 7g0Zo6Ji9EY
+- 1 new source (1 file, deepened: false): no cold DMs — sell after the signal (like/comment/keyword/subscribe), then 3-stage chat: connect (name + binary question), qualify (price the annual gap), invite (doc or 10-15 min call) — client Jake went $60k/mo → $3M/mo, 18 months with no sales department.
+- CHECKED 523 concepts, FAILED 0; sync total done = 236.
