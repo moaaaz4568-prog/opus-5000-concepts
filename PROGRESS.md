@@ -179,3 +179,6 @@
 - CHECKED 492 concepts, FAILED 0; sync total done = 218.
 ## 2026-11-26 (Opus) — تصحيح تكرار 6T28M6godGQ
 - اكتُشف أن 6RuDYgTrIss/6SMEcjt3Ano/6T28M6godGQ كانت منجزة مسبقًا (2026-11-25)؛ استُعيد مفهوم C_6T28M6godGQ_01 الأصلي وإحالات الـmanifest، وأُبقي المفهوم الجديد C_6T28M6godGQ_02 (آلية التحويل الفريدة) إضافةً له.
+## 2026-11-26 (Opus) — batch 7aIlXwXQffc
+- 1 new source (3 files, deepened: false): Instagram stories as the only follower-only sales asset + 6:1 give/ask ratio and CCC sequence; friction-based qualification added one layer at a time; selling your losses (accountability) beats highlight reels — 70–75% close rate.
+- CHECKED 496 concepts, FAILED 0; sync total done = 219.
