@@ -3292,7 +3292,11 @@
       "code": "7onxH6Qv5DA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7onxH6Qv5DA_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7onxH6Qv5DA_01.md",
+        "C_7onxH6Qv5DA_02.md"
+      ]
     },
     {
       "batch": 103,

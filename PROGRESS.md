@@ -269,3 +269,5 @@
 - 1 source (1 file, deepened: false): RAG knowledge agent over SOPs (n8n + Supabase vector store + OpenAI) — two-agent build (ingest from Drive, chat query), embeddings 1000-char chunks/200 overlap, system-prompt structure overview/tools/rules, mandatory "always pull from vector store" + concise rules.
 ## 2026-11-26 (Opus) — batch 7oh5BGWdmWM
 - 1 source (1 file, deepened: false): design as advertising — the camera block as a shaped marketing statement (iPhone 11 Pro loud status symbol vs Pixel 4 humane face-like block); the only un-coverable surface is the marketing asset; form choice = market positioning, not pure function.
+## 2026-11-26 (Opus) — batch 7onxH6Qv5DA
+- 1 source (2 files, deepened: false): David Parsons (Ellipsus) on loyalty — say-do gap (behavioral first, emotional predictive, Luxottica 76% frames one factory); choose your sport (Virgin vs Qantas duopoly: loyalty as the relationship's front door, CBA Yellow wheel, goal-gradient theory turning $200 into $700, loss aversion, subscriptions incl. AGL+Netflix, sock subscription).
