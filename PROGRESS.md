@@ -151,3 +151,6 @@
 ## 2026-11-26 (Opus) — batch 7WAStzjjMHY (concept 5)
 - Fifth concept (deepened: false): influencer negotiation — emotional support unlocks licensing freeze; price rights instead of arguing them.
 - CHECKED 471 FAILED 0; 200 done of 5000.
+## 2026-11-26 (Opus) — batch 7XQsvNJxqHE
+- 1 new source (1 file, deepened: false): extra mortgage payments vs HELOC — locked vs liquid capital.
+- CHECKED 472 FAILED 0; 201 done of 5000.
