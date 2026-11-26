@@ -167,3 +167,6 @@
 ## 2026-11-26 (Opus) — batch 7YbqsRiijvk + 7ZUqRRyOaDI
 - 2 new sources (2 files, deepened: false): fisherman vs farmer (sale ≠ acquired customer); self-taught specialization 3-4 months vs 4-5 years.
 - CHECKED 483 FAILED 0; 210 done of 5000.
+## 2026-11-26 (Opus) — batch 7aEDJJHGZoE + 7_wdiSZHE9Q
+- 2 new sources (3 files, deepened: false): portfolio split 80/20 with personal brand first; sell the whole AI department (5-10x pricing, 5-year retention); six evaluation criteria with retention as the decisive one.
+- CHECKED 487 FAILED 0; 213 done of 5000.
