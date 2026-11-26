@@ -3016,7 +3016,8 @@
       "code": "7fbMNBMPl6U",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7fbMNBMPl6U_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "Illustrator hidden-features tutorial (draw behind/inside, fit artboard, same-color select, spell-check) — software mechanics only"
     },
     {
       "batch": 103,
@@ -3051,7 +3052,10 @@
       "code": "7gFH7hK2ijk",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7gFH7hK2ijk_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7gFH7hK2ijk_01.md"
+      ]
     },
     {
       "batch": 103,

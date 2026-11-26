@@ -219,3 +219,7 @@
 ## 2026-11-26 (Opus) — batch 7fRFMJihiu4 (28KB, media buyer masterclass)
 - 1 new source (3 files, deepened: false): your job is making your boss look good (CBS $1M/day case: overdelivering cost the agency commissions and the client's credibility); data in context beats opinion (Excel mastery, templated reports, the "mail room" vantage); client-ladder pricing (every new client pays more than your cheapest existing one — raise when the schedule is full).
 - CHECKED 521 concepts, FAILED 0; sync total done = 234.
+## 2026-11-26 (Opus) — batch 7gFH7hK2ijk + skip 7fbMNBMPl6U
+- 1 new source (1 file, deepened: false): for business owners rest means work — recovery produces better ideas, clearer thinking, full energy; don't obey "5 years no vacation" mentors.
+- 1 skip: 7fbMNBMPl6U (Illustrator hidden features) — 25 documented skips.
+- CHECKED 516 concepts, FAILED 0; sync total done = 233.
