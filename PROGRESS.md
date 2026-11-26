@@ -129,3 +129,6 @@
 ## 2026-11-26 (Opus) — batch 7Tj3/7U4R/7UCv/7UMJ/7UZi
 - 5 new sources (5 files, deepened: false): 4 scaling books / 4M diagnosis, brand differentiation, shape psychology in logos, opportunities amid noise, 4-layer campaign model.
 - CHECKED 459 FAILED 0; 195 done of 5000.
+## 2026-11-26 (Opus) — batch 7Ups/7V_d
+- 2 new sources (6 files, deepened: false): Hormozi clarity via subtraction; treat millions like thousands; ride the wave beats mastery; predict trends from current flaws; fast beats right decision; reverse question in sales.
+- CHECKED 465 FAILED 0; 198 done of 5000.
