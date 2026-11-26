@@ -200,3 +200,6 @@
 ## 2026-11-26 (Opus) — batch 7d_usbbF2ZU
 - 1 new source (1 file, deepened: false): design principles cancel trial-and-error — 12 principles as unwritten laws (BBC repetition/symmetry, Nike contrast/asymmetry/movement) beat intuition and win long-term clients.
 - CHECKED 507 concepts, FAILED 0; sync total done = 227.
+## 2026-11-26 (Opus) — batch 7dd8uZEnpO4 (85KB)
+- 1 new source (3 files, deepened: false): ad fatigue is a myth (new ads borrow your warmest audience then climb the funnel — frequency tells the truth); Meta's Andromeda/EAR ranking (new ads start at zero, campaign-wide targeting, role-clear ads, get out of the way); the Olympic Rings method (5 rings/5 jobs: 3 top-funnel hooks + bottom best-seller + objection-handling reviews — diagnose the weak ring, launch one concept to fill the missing job).
+- CHECKED 510 concepts, FAILED 0; sync total done = 228.
