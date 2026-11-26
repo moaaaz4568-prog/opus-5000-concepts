@@ -3333,7 +3333,8 @@
       "code": "7qOiGZD3DAA",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7qOiGZD3DAA_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "Adobe Illustrator tool tutorial (vector ribbon banner, workspace-tip workflow) — tool mechanics, no transferable concept (30th documented skip)"
     },
     {
       "batch": 103,

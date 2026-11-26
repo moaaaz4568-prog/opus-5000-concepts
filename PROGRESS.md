@@ -277,3 +277,5 @@
 - 1 source (1 file, deepened: false): "you run it, it's worth zero" — founder-dependent businesses collapse in diligence (earnings quality cut, lower multiple, earn-backs); build metrics/leaders/KPIs/dashboards/systems and exit daily operations before selling.
 ## 2026-11-26 (Opus) — batch 7qL7MeYJNlU (skip)
 - 1 skipped source: 63-word fragment (discounting slow stock) — below extractable threshold.
+## 2026-11-26 (Opus) — batch 7qOiGZD3DAA (skip)
+- 1 skipped source: Adobe Illustrator tool tutorial (vector ribbon banner) — tool mechanics, no transferable concept.
