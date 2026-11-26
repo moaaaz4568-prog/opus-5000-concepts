@@ -229,3 +229,6 @@
 ## 2026-11-26 (Opus) — batch 7gF9Hl1XveQ
 - 1 new source (1 file, deepened: false): Billy Blue — your only product is a producer producing high-quality meetings; you (growth director) train, coach in real time, and hold accountable; flight-plan delivery schedule + the "wedge" against the incumbent agent.
 - CHECKED 524 concepts, FAILED 0; sync total done = 237.
+## 2026-11-26 (Opus) — batch 7gqWxNpEjyY (50KB, agency M&A)
+- 1 new source (2 files, deepened: false): first acquisition without millions (small upfront + annual performance-conditioned check, paid from the acquired company's own cash; fractional CFO/M&A advisors; "your network is your net worth" — sellers are everywhere, announce your intent); build the sellable business (remove discount factors: client concentration, churn, owner-as-sales-dept — same system gives you options: sell, keep, expand).
+- CHECKED 526 concepts, FAILED 0; sync total done = 238.
