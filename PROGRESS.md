@@ -182,3 +182,6 @@
 ## 2026-11-26 (Opus) — batch 7aIlXwXQffc
 - 1 new source (3 files, deepened: false): Instagram stories as the only follower-only sales asset + 6:1 give/ask ratio and CCC sequence; friction-based qualification added one layer at a time; selling your losses (accountability) beats highlight reels — 70–75% close rate.
 - CHECKED 496 concepts, FAILED 0; sync total done = 219.
+## 2026-11-26 (Opus) — batch 7aTBl_3NgJ4
+- 1 new source (3 files, deepened: false): Facebook amplifies your business model (doesn't create it; CPM mirrors content likeability); media-buyer outsourcing trap ($1.5-2k/mo for <1hr/wk work — buy one-time setup instead); success ladder (spend → repeat purchase → spending capacity).
+- CHECKED 499 concepts, FAILED 0; sync total done = 220.
