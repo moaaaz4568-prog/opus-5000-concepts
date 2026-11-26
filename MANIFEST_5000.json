@@ -243,7 +243,7 @@
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6X0SrPog0as_ar.md",
       "status": "skipped",
-      "skip_reason": "no independent idea: 114-word machine-translated API-key/Claude Code setup steps"
+      "skip_reason": "tool-mechanics tutorial transcript (garbled auto-translation / software steps only, no transferable concept)"
     },
     {
       "batch": 103,
@@ -400,8 +400,11 @@
       "code": "6aWtztAkLXM",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6aWtztAkLXM_ar.md",
-      "status": "skipped",
-      "skip_reason": "158-word truncated Q&A snippet; single generic idea (what you do during/after the course) with no protocol, examples or numbers"
+      "status": "done",
+      "skip_reason": "158-word truncated Q&A snippet; single generic idea (what you do during/after the course) with no protocol, examples or numbers",
+      "concept_files": [
+        "C_6aWtztAkLXM_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -441,7 +444,7 @@
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6bVk-HytCew_ar.md",
       "status": "skipped",
-      "skip_reason": "no independent idea: 136-word After Effects how-to (remove background in 5 steps); rule: source without idea = no file"
+      "skip_reason": "tool-mechanics tutorial transcript (garbled auto-translation / software steps only, no transferable concept)"
     },
     {
       "batch": 103,
@@ -527,7 +530,7 @@
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6cz4fOo4_hs_ar.md",
       "status": "skipped",
-      "skip_reason": "no independent idea: 93-word machine-translated install instructions (Cloud Code + Node.js setup); rule: source without idea = no file"
+      "skip_reason": "tool-mechanics tutorial transcript (garbled auto-translation / software steps only, no transferable concept)"
     },
     {
       "batch": 103,
@@ -581,8 +584,11 @@
       "code": "6dbhNGbJw7k",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_6dbhNGbJw7k_ar.md",
-      "status": "skipped",
-      "skip_reason": "no independent idea: 62-word anecdote fragment (sign in yard); rule: source without idea = no file"
+      "status": "done",
+      "skip_reason": "no independent idea: 62-word anecdote fragment (sign in yard); rule: source without idea = no file",
+      "concept_files": [
+        "C_6dbhNGbJw7k_01.md"
+      ]
     },
     {
       "batch": 103,

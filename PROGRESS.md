@@ -170,3 +170,7 @@
 ## 2026-11-26 (Opus) — batch 7aEDJJHGZoE + 7_wdiSZHE9Q
 - 2 new sources (3 files, deepened: false): portfolio split 80/20 with personal brand first; sell the whole AI department (5-10x pricing, 5-year retention); six evaluation criteria with retention as the decisive one.
 - CHECKED 487 FAILED 0; 213 done of 5000.
+## 2026-11-26 (Opus) — batch 6aWtztAkLXM + 6dbhNGbJw7k
+- 2 new sources (2 files, deepened: false): course-completion ≠ skill (what you do during/after is the differentiator); single lead-gen channel (yard sign) dictates the whole traditional system.
+- 3 sources skipped: 6X0SrPog0as, 6cz4fOo4_hs (garbled setup-transcript, tool mechanics), 6bVk-HytCew (After Effects counter tutorial) — same class as 17 prior documented skips.
+- CHECKED 489 concepts, FAILED 0; sync total done = 215.
