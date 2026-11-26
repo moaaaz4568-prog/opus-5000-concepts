@@ -109,3 +109,7 @@
 ## 2026-11-26 (Opus) — دفعة 7IzP-ohwy-c
 - 1 مصدر جديد (3 ملفات، deepened: false): C_7IzP-ohwy-c_01..03 (الأساسيات قبل العصي / لعب اللعبة على طريقتك / الزواج كأعلى عائد).
 - الأعداد: 429 ملف مفهوم · 178 done + 13 skipped + 4809 pending من 5000 · check.py = CHECKED 429, FAILED 0 (exit 0) · sync exit 0.
+
+## 2026-11-26 (Opus) — دفعات 7KH6DO1QQLw/7L3urJz6pMM/7MKciRd2Qe8
+- 3 مصادر جديدة (3 ملفات، deepened: false): الكاميرا كمحادثة عميقة، تعلّم الصنعة قبل الفلوس، المؤسس الرقمي أصلًا.
+- الأعداد: 432 ملف مفهوم · 181 done + 13 skipped + 4806 pending من 5000 · check.py = CHECKED 432, FAILED 0 (exit 0) · sync exit 0.
