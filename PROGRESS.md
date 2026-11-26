@@ -275,3 +275,5 @@
 - 1 skipped source: 377-word prank-call comedy bit (angry land seller vs "Mike") — entertainment, no extractable concept.
 ## 2026-11-26 (Opus) — batch 7pwxal1O0PY
 - 1 source (1 file, deepened: false): "you run it, it's worth zero" — founder-dependent businesses collapse in diligence (earnings quality cut, lower multiple, earn-backs); build metrics/leaders/KPIs/dashboards/systems and exit daily operations before selling.
+## 2026-11-26 (Opus) — batch 7qL7MeYJNlU (skip)
+- 1 skipped source: 63-word fragment (discounting slow stock) — below extractable threshold.
