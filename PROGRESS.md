@@ -104,4 +104,4 @@
 
 ## 2026-11-26 (Opus) — دفعات 7I9Lii0QWuo/7IjF6fiTXmQ/7JCBrImtoqk/7IwTua4AaRY
 - 4 مصادر جديدة (7 ملفات، deepened: false): ساعة النجاح، السيكولوجي المزدوج (بيع/تسويق)، ربط واتساب بوكيل ذكاء اصطناعي، وتصنيف العملاء (سيئون ×4).
-- الأعداد: 426 ملف مفهوم · 178 done + 13 skipped + 4809 pending من 5000 · check.py = CHECKED 426, FAILED 0 (exit 0) · sync exit 0.
+- الأعداد: 426 ملف مفهوم · 177 done + 13 skipped + 4810 pending من 5000 · check.py = CHECKED 426, FAILED 0 (exit 0) · sync exit 0.
