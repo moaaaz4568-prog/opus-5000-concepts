@@ -194,3 +194,6 @@
 ## 2026-11-26 (Opus) — batch 7ci-7YzkbGQ + 7cgIQtcbeUY
 - 2 new sources (2 files, deepened: false): 6-stage B2B sales funnel (improvisation is why new reps stall); first-position HELOC (emergency fund stays liquid while interest recalcs every 24h — mortgage paid off in 3.5 yrs).
 - CHECKED 503 concepts, FAILED 0; sync total done = 224.
+## 2026-11-26 (Opus) — batch 7d5P6NTaOa8 + 7dY3Fo9Gc6s
+- 2 new sources (3 files, deepened: false): screen-before-comp (Zillow market check, Zestimate anchor, 20%-discount price-history rule); ideal-comp rules (same neighborhood, same build type, 3 comps, ARV); Facebook autopilot (build well then 1-2 hrs/week max, decisions monthly).
+- CHECKED 506 concepts, FAILED 0; sync total done = 226.
