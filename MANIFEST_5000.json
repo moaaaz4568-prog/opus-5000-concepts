@@ -2461,7 +2461,10 @@
       "code": "7Tj3FOGc2Rc",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7Tj3FOGc2Rc_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7Tj3FOGc2Rc_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -2477,7 +2480,10 @@
       "code": "7U4Ru2J4ZCQ",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7U4Ru2J4ZCQ_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7U4Ru2J4ZCQ_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -2485,7 +2491,10 @@
       "code": "7UCv0mj8Uc8",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7UCv0mj8Uc8_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7UCv0mj8Uc8_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -2493,7 +2502,10 @@
       "code": "7UMJFe-hgRg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7UMJFe-hgRg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7UMJFe-hgRg_01.md"
+      ]
     },
     {
       "batch": 103,
@@ -2501,7 +2513,10 @@
       "code": "7UZi1OYD9Qg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7UZi1OYD9Qg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7UZi1OYD9Qg_01.md"
+      ]
     },
     {
       "batch": 103,

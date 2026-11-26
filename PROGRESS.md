@@ -126,3 +126,6 @@
 ## 2026-11-26 (Opus) — batch 7SNsqDi4kl4
 - 1 new source (5 files, deepened: false): forced growth / buy the shortcut / symptoms-vs-problem / know your numbers / product complexity.
 - CHECKED 454 FAILED 0; 190 done of 5000.
+## 2026-11-26 (Opus) — batch 7Tj3/7U4R/7UCv/7UMJ/7UZi
+- 5 new sources (5 files, deepened: false): 4 scaling books / 4M diagnosis, brand differentiation, shape psychology in logos, opportunities amid noise, 4-layer campaign model.
+- CHECKED 459 FAILED 0; 195 done of 5000.
