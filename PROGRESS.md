@@ -259,3 +259,5 @@
 - 1 skipped source: 102-word fragment (below extractable threshold) — snippet on being known for solutions in a niche vs a tool/country; no standalone concept.
 ## 2026-11-26 (Opus) — batch 7ljTK-p_6OA
 - 1 source (1 file, deepened: false): profit-volume campaign — gross profit per transaction (AOV/CPA math: 3x$50 orders vs $40 blended CPA = $30 profit) over ROAS; retargeting that overcomes the "no" by raising offer value (Amazon bundle model); cash margins not percentage margins.
+## 2026-11-26 (Opus) — batch 7m9W3Jwcc9A
+- 1 source (2 files, deepened: false): Dan Hakim / United Business Club — networking as friendship-in-similar-position (Tall Poppy paradox made the club win; failed full-hospitality member-club model); belonging engineered via pre-briefing and expectation transparency, one dollar spent only on relationships.
