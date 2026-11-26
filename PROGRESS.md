@@ -185,3 +185,6 @@
 ## 2026-11-26 (Opus) — batch 7aTBl_3NgJ4
 - 1 new source (3 files, deepened: false): Facebook amplifies your business model (doesn't create it; CPM mirrors content likeability); media-buyer outsourcing trap ($1.5-2k/mo for <1hr/wk work — buy one-time setup instead); success ladder (spend → repeat purchase → spending capacity).
 - CHECKED 499 concepts, FAILED 0; sync total done = 220.
+## 2026-11-26 (Opus) — تخطيّان: 7apxi2_xje8 + 7bTZ19WFtB4
+- 7apxi2_xje8: درس Illustrator pen-tool (ميكانيكا أدوات فقط). 7bTZ19WFtB4: مقابلة ترجمة آلية مشوّشة بلا أطروحة قابلة للاستخراج.
+- 22 تخطيًا موثقًا إجمالًا. CHECKED 499 concepts, FAILED 0; total done = 220.
