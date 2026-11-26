@@ -232,3 +232,7 @@
 ## 2026-11-26 (Opus) — batch 7gqWxNpEjyY (50KB, agency M&A)
 - 1 new source (2 files, deepened: false): first acquisition without millions (small upfront + annual performance-conditioned check, paid from the acquired company's own cash; fractional CFO/M&A advisors; "your network is your net worth" — sellers are everywhere, announce your intent); build the sellable business (remove discount factors: client concentration, churn, owner-as-sales-dept — same system gives you options: sell, keep, expand).
 - CHECKED 526 concepts, FAILED 0; sync total done = 238.
+## 2026-11-26 (Opus) — batch 7hOF5tCxh7I + skip 7gyw0x83Is4
+- 1 new source (1 file, deepened: false): affidavit of interest — recorded memo blocks resale of your contracted property; three preconditions (valid contract, good faith, ability to perform); monetizable itself ($3k payoff case).
+- 1 skip: 7gyw0x83Is4 (travel vlog) — 26 documented skips.
+- CHECKED 527 concepts, FAILED 0; sync total done = 238.

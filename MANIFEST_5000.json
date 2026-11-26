@@ -3081,7 +3081,8 @@
       "code": "7gyw0x83Is4",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7gyw0x83Is4_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "lifestyle/travel vlog (Cape Town villa, birthdays, cooking) — no transferable business thesis"
     },
     {
       "batch": 103,
@@ -3089,7 +3090,10 @@
       "code": "7hOF5tCxh7I",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7hOF5tCxh7I_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7hOF5tCxh7I_01.md"
+      ]
     },
     {
       "batch": 103,
