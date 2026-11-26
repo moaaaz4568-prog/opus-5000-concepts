@@ -245,3 +245,6 @@
 ## 2026-11-26 (Opus) — batch 7i1MPsYHm0U
 - 1 new source (1 file, deepened: false): the system that makes consistency possible — 52 videos/52 weeks, $50/mo → $8k/mo, same person same channel; connect what you already own (control docs per stage), good-enough philosophy, you don't need confidence to be consistent (thumbnail A/B: system's pick won by 10%).
 - CHECKED 532 concepts, FAILED 0; sync total done = 243.
+## 2026-11-26 (Opus) — batch 7iZ3Mp1ZdhU + 7krrLnkzEf8 + 7ky2HbBasG0
+- 3 new sources (3 files, deepened: false): Super Bowl ads amplify brand perception as-is (fix perception before fun — Coinbase 95% negative, Bud Light needs years of performance); "get famous" is a backwards idea — personal brand = a media entity around something you own (3 of 4 famous people are famous for the wrong thing); channel-as-funnel (tool → comparison → sub-strategies → integrity-framed free call).
+- CHECKED 527 concepts, FAILED 0; sync total done = 239.
