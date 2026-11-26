@@ -273,3 +273,5 @@
 - 1 source (2 files, deepened: false): David Parsons (Ellipsus) on loyalty — say-do gap (behavioral first, emotional predictive, Luxottica 76% frames one factory); choose your sport (Virgin vs Qantas duopoly: loyalty as the relationship's front door, CBA Yellow wheel, goal-gradient theory turning $200 into $700, loss aversion, subscriptions incl. AGL+Netflix, sock subscription).
 ## 2026-11-26 (Opus) — batch 7pBYA7tqUZk (skip)
 - 1 skipped source: 377-word prank-call comedy bit (angry land seller vs "Mike") — entertainment, no extractable concept.
+## 2026-11-26 (Opus) — batch 7pwxal1O0PY
+- 1 source (1 file, deepened: false): "you run it, it's worth zero" — founder-dependent businesses collapse in diligence (earnings quality cut, lower multiple, earn-backs); build metrics/leaders/KPIs/dashboards/systems and exit daily operations before selling.
