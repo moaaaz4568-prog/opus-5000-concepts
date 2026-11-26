@@ -3374,7 +3374,10 @@
       "code": "7u80HAi3Gso",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7u80HAi3Gso_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7u80HAi3Gso_01.md"
+      ]
     },
     {
       "batch": 103,
