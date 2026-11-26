@@ -289,3 +289,5 @@
 - 1 source (1 file, deepened: false): people buy on emotion and justify with logic (real driver: vacation with family / leaving the company, not Q3 revenue) — capture the emotional motive, secure the rational cover.
 ## 2026-11-26 (Opus) — batch 7uF3q6pml0Q
 - 1 source (1 file, deepened: false): no ready-made packages early — start customized-services, listen per client, proposal with options; you've found your specialization when your proposal matches your previous clients' proposals word-for-word.
+## 2026-11-26 (Opus) — batch 7vwUOXxWwJo (skip)
+- 1 skipped source: Premiere Pro tool tutorial (logo lighting effect walkthrough) — tool mechanics, no transferable concept.
