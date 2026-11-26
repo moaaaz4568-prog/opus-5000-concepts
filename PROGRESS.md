@@ -239,3 +239,6 @@
 ## 2026-11-26 (Opus) — batch 7hZ4RcHR368 (86KB)
 - 1 new source (2 files, deepened: false): three circles (external circumstances out of control — practice detachment; influence circle factors: motives, mood, body, time, communication — work it and the target is a matter of time; convert target to performance numbers: 80% on critical elements); framing (same stat, two wordings, opposite choices — positive framing, anchored option sets, use-cases over specs, offers by decision stage).
 - CHECKED 528 concepts, FAILED 0; sync total done = 240.
+## 2026-11-26 (Opus) — batch 7hiumf7wM-4 + 7hrY7aleHFQ
+- 2 new sources (2 files, deepened: false): three-channel brokerage (acquisitions from other wholesalers + dispositions team + buyout fund, ~20 homes/mo, office tour as acquisition channel); pre-foreclosure paper pipeline (propwire filter, 70%-of-value offer, door-knocking, sell the contract "on paper").
+- CHECKED 529 concepts, FAILED 0; sync total done = 241.
