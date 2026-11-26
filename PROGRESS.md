@@ -206,3 +206,7 @@
 ## 2026-11-26 (Opus) — batch 7djhpzXLALg
 - 1 new source (2 files, deepened: false): end of the 30-rep team — one-person AI outbound engine ($120k role, ~$1M rev/person, intent-signal timing: send your best offer in the hot moment, don't name the signal); invisible AI personalization (speak to job-context, never reveal the surveillance).
 - CHECKED 512 concepts, FAILED 0; sync total done = 229.
+## 2026-11-26 (Opus) — batch 7eMM4Vkp9zg + skips 7e14RnmPg_I/7eChmIUHvBk
+- 1 new source (1 file, deepened: false): 3x2x2 ad structure — 12 cards vs 125 combos; creativity = 80% of scroll-stop, extra variation buries the signal (that IS what "ad fatigue" is).
+- 2 skips: 7e14RnmPg_I (Illustrator type tutorial), 7eChmIUHvBk (daily vlog, no thesis) — 24 documented skips.
+- CHECKED 511 concepts, FAILED 0; sync total done = 230.

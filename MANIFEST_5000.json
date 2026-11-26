@@ -2950,7 +2950,8 @@
       "code": "7e14RnmPg_I",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7e14RnmPg_I_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "Illustrator type-art tutorial (brush tool, pen tool, pathfinder, anchor points) — software mechanics only"
     },
     {
       "batch": 103,
@@ -2958,7 +2959,8 @@
       "code": "7eChmIUHvBk",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7eChmIUHvBk_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "daily vlog (LA apartment, energy drinks, messages) — no transferable business thesis"
     },
     {
       "batch": 103,
@@ -2966,7 +2968,10 @@
       "code": "7eMM4Vkp9zg",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7eMM4Vkp9zg_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7eMM4Vkp9zg_01.md"
+      ]
     },
     {
       "batch": 103,
