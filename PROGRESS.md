@@ -191,3 +191,6 @@
 ## 2026-11-26 (Opus) — batch 7bzBUOetm20 + 7cqkhIYhJoo + skip 7apxi2_xje8/7bTZ19WFtB4
 - 2 new sources (2 files, deepened: false): self-worth as the project filter (Roller Nation founder: profitable brand only after leaving — "I didn't value it"); the 4 leverage types (people, capital, media, code) for scaling without hiring.
 - CHECKED 501 concepts, FAILED 0; sync total done = 222.
+## 2026-11-26 (Opus) — batch 7ci-7YzkbGQ + 7cgIQtcbeUY
+- 2 new sources (2 files, deepened: false): 6-stage B2B sales funnel (improvisation is why new reps stall); first-position HELOC (emergency fund stays liquid while interest recalcs every 24h — mortgage paid off in 3.5 yrs).
+- CHECKED 503 concepts, FAILED 0; sync total done = 224.
