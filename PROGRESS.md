@@ -293,3 +293,5 @@
 - 1 skipped source: Premiere Pro tool tutorial (logo lighting effect walkthrough) — tool mechanics, no transferable concept.
 ## 2026-11-26 (Opus) — batch 7wFWSz5zcBM
 - 1 source (2 files, deepened: false): 4 thinking frameworks to find signal in AI noise ($1M/5wks creator) — first principles (Musk battery teardown), probabilistic EV ("100 reruns average"), inversion ("how to guarantee never making $1M"), intellectual leverage that compounds + feedback loops tracking decision quality not outcomes; and the availability paradox — skills that platform-give to 700M users are no moat, judgment is.
+## 2026-11-26 (Opus) — batch 7wL_mXLEkGU
+- 1 source (1 file, deepened: false, NEW first-stage headings: الآلية/حدود الفناء/المصدرية): growth by offloading — $3/hr VAs as infrastructure scaling $5k→$50k/mo (153 calls/week organic before paid); hire before profit (Zuckerberg engineers analogy), deploy idle capital ($100k fixed costs as success insurance).
