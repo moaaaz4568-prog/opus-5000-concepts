@@ -3246,7 +3246,11 @@
       "code": "7nDdOB02K5M",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7nDdOB02K5M_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7nDdOB02K5M_01.md",
+        "C_7nDdOB02K5M_02.md"
+      ]
     },
     {
       "batch": 103,
