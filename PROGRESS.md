@@ -197,3 +197,6 @@
 ## 2026-11-26 (Opus) — batch 7d5P6NTaOa8 + 7dY3Fo9Gc6s
 - 2 new sources (3 files, deepened: false): screen-before-comp (Zillow market check, Zestimate anchor, 20%-discount price-history rule); ideal-comp rules (same neighborhood, same build type, 3 comps, ARV); Facebook autopilot (build well then 1-2 hrs/week max, decisions monthly).
 - CHECKED 506 concepts, FAILED 0; sync total done = 226.
+## 2026-11-26 (Opus) — batch 7d_usbbF2ZU
+- 1 new source (1 file, deepened: false): design principles cancel trial-and-error — 12 principles as unwritten laws (BBC repetition/symmetry, Nike contrast/asymmetry/movement) beat intuition and win long-term clients.
+- CHECKED 507 concepts, FAILED 0; sync total done = 227.

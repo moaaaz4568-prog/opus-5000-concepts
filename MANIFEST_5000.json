@@ -2914,7 +2914,10 @@
       "code": "7d_usbbF2ZU",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7d_usbbF2ZU_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7d_usbbF2ZU_01.md"
+      ]
     },
     {
       "batch": 103,
