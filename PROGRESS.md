@@ -120,3 +120,6 @@
 ## 2026-11-26 (Opus) — دفعات 7KMScQOkk_E/7R39Lz0LS_8/7RMdaa0Txvk
 - 3 مصادر جديدة (5 ملفات، deepened: false): الخوارزمية تخدم إبقاء المشاهد، من شق إلى جدار زجاجي، ثلاث فئات أفكار، الإقناع بأنها فكرته، USP بفراغات معبأة.
 - الأعداد: 440 ملف مفهوم · 185 done + 14 skipped + 4801 pending من 5000 · check.py = CHECKED 440, FAILED 0 (exit 0) · sync exit 0.
+## 2026-11-26 (Opus) — batch 7SsY4Egqe1M + 7T5YRxW1ZHA + 7Ti8CSK_g6Y
+- 3 new sources (8 files, deepened: false): 3-2-1 persona formula, benefits vs specs (iPod), write to one person, product vs offer; color psychology in selling; relationships as currency.
+- CHECKED 449 FAILED 0; 189 done of 5000.
