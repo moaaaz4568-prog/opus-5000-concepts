@@ -263,3 +263,5 @@
 - 1 source (2 files, deepened: false): Dan Hakim / United Business Club — networking as friendship-in-similar-position (Tall Poppy paradox made the club win; failed full-hospitality member-club model); belonging engineered via pre-briefing and expectation transparency, one dollar spent only on relationships.
 ## 2026-11-26 (Opus) — batch 7nDdOB02K5M
 - 1 source (2 files, deepened: false): client interviews as the master asset (result hook first, assets defined pre-record, 2h/day feeding everything); deliberate price raising on an 80% close-rate $2K offer (mandatory 12-month $199 financing, compare competitors at $2.5-4K, raise +30-40% when flow dips).
+## 2026-11-26 (Opus) — batch 7nMcJ2vGdLs
+- 1 source (2 files, deepened: false): And-But-Therefore (ABT) storytelling from Randy Olson via Park Howell — agreement/contradiction/resolution, audience at story's heart, Pareto one persona (live ABT built for Jason Swenk's Agency Mastery); and Operator-to-Owner: the 30-day absence test, founder as bottleneck, accidental-agency identity drift.
