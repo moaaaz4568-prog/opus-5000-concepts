@@ -3101,7 +3101,11 @@
       "code": "7hZ4RcHR368",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7hZ4RcHR368_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7hZ4RcHR368_01.md",
+        "C_7hZ4RcHR368_02.md"
+      ]
     },
     {
       "batch": 103,

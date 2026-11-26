@@ -236,3 +236,6 @@
 - 1 new source (1 file, deepened: false): affidavit of interest — recorded memo blocks resale of your contracted property; three preconditions (valid contract, good faith, ability to perform); monetizable itself ($3k payoff case).
 - 1 skip: 7gyw0x83Is4 (travel vlog) — 26 documented skips.
 - CHECKED 527 concepts, FAILED 0; sync total done = 238.
+## 2026-11-26 (Opus) — batch 7hZ4RcHR368 (86KB)
+- 1 new source (2 files, deepened: false): three circles (external circumstances out of control — practice detachment; influence circle factors: motives, mood, body, time, communication — work it and the target is a matter of time; convert target to performance numbers: 80% on critical elements); framing (same stat, two wordings, opposite choices — positive framing, anchored option sets, use-cases over specs, offers by decision stage).
+- CHECKED 528 concepts, FAILED 0; sync total done = 240.
