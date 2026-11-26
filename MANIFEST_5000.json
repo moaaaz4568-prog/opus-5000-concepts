@@ -1934,7 +1934,12 @@
       "code": "7G3g6DvGiXI",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7G3g6DvGiXI_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7G3g6DvGiXI_01.md",
+        "C_7G3g6DvGiXI_02.md",
+        "C_7G3g6DvGiXI_03.md"
+      ]
     },
     {
       "batch": 103,
