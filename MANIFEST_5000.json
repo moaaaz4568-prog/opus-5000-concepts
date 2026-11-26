@@ -3168,7 +3168,11 @@
       "code": "7k5QP64gww4",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7k5QP64gww4_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7k5QP64gww4_01.md",
+        "C_7k5QP64gww4_02.md"
+      ]
     },
     {
       "batch": 103,
