@@ -177,3 +177,5 @@
 ## 2026-11-26 (Opus) — batch 6fdTaNbI4UA + 6oIaCJ1QeDQ + 6p2f1FPG43A
 - 3 new sources (3 files, deepened: false): saturation paradox (abundance makes great content scarcer, not worthless); Cannes Lions award ≠ profitable ad (simplify, ship what you know); world-model AI scene editing in ad workflows makes adopters hard to compete with.
 - CHECKED 492 concepts, FAILED 0; sync total done = 218.
+## 2026-11-26 (Opus) — تصحيح تكرار 6T28M6godGQ
+- اكتُشف أن 6RuDYgTrIss/6SMEcjt3Ano/6T28M6godGQ كانت منجزة مسبقًا (2026-11-25)؛ استُعيد مفهوم C_6T28M6godGQ_01 الأصلي وإحالات الـmanifest، وأُبقي المفهوم الجديد C_6T28M6godGQ_02 (آلية التحويل الفريدة) إضافةً له.
