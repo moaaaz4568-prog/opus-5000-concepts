@@ -188,3 +188,6 @@
 ## 2026-11-26 (Opus) — تخطيّان: 7apxi2_xje8 + 7bTZ19WFtB4
 - 7apxi2_xje8: درس Illustrator pen-tool (ميكانيكا أدوات فقط). 7bTZ19WFtB4: مقابلة ترجمة آلية مشوّشة بلا أطروحة قابلة للاستخراج.
 - 22 تخطيًا موثقًا إجمالًا. CHECKED 499 concepts, FAILED 0; total done = 220.
+## 2026-11-26 (Opus) — batch 7bzBUOetm20 + 7cqkhIYhJoo + skip 7apxi2_xje8/7bTZ19WFtB4
+- 2 new sources (2 files, deepened: false): self-worth as the project filter (Roller Nation founder: profitable brand only after leaving — "I didn't value it"); the 4 leverage types (people, capital, media, code) for scaling without hiring.
+- CHECKED 501 concepts, FAILED 0; sync total done = 222.
