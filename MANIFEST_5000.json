@@ -3003,7 +3003,12 @@
       "code": "7fRFMJihiu4",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7fRFMJihiu4_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7fRFMJihiu4_01.md",
+        "C_7fRFMJihiu4_02.md",
+        "C_7fRFMJihiu4_03.md"
+      ]
     },
     {
       "batch": 103,

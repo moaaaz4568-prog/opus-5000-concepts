@@ -216,3 +216,6 @@
 ## 2026-11-26 (Opus) — batch 7eQv3x8A7Ww (173KB, Everlab founder)
 - 1 new source (3 files, deepened: false): speed as the only pre-scale advantage (decide on 20% info, "why not tomorrow?"); sick care is not health care (flip to prevention for the healthy — why now: silent diseases + AI diagnostics + late-stage VC timing in health); founder deficit as fuel (personal meaning carries regulatory minefields, doctor co-founder fills the domain gap).
 - CHECKED 518 concepts, FAILED 0; sync total done = 233.
+## 2026-11-26 (Opus) — batch 7fRFMJihiu4 (28KB, media buyer masterclass)
+- 1 new source (3 files, deepened: false): your job is making your boss look good (CBS $1M/day case: overdelivering cost the agency commissions and the client's credibility); data in context beats opinion (Excel mastery, templated reports, the "mail room" vantage); client-ladder pricing (every new client pays more than your cheapest existing one — raise when the schedule is full).
+- CHECKED 521 concepts, FAILED 0; sync total done = 234.
