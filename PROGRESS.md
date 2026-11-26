@@ -164,3 +164,6 @@
 ## 2026-11-26 (Opus) — batch 7YANyHZgVbA + 7YJQAlAUQLs
 - 2 new sources (3 files, deepened: false): daily nail (invisible work compounds); cold email 50→2000/day scaling; three-tier funnel (cold/warm/direct-response).
 - CHECKED 481 FAILED 0; 208 done of 5000.
+## 2026-11-26 (Opus) — batch 7YbqsRiijvk + 7ZUqRRyOaDI
+- 2 new sources (2 files, deepened: false): fisherman vs farmer (sale ≠ acquired customer); self-taught specialization 3-4 months vs 4-5 years.
+- CHECKED 483 FAILED 0; 210 done of 5000.
