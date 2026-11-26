@@ -132,3 +132,7 @@
 ## 2026-11-26 (Opus) — batch 7Ups/7V_d
 - 2 new sources (6 files, deepened: false): Hormozi clarity via subtraction; treat millions like thousands; ride the wave beats mastery; predict trends from current flaws; fast beats right decision; reverse question in sales.
 - CHECKED 465 FAILED 0; 198 done of 5000.
+## 2026-11-26 (Opus) — batch 7Var8lksxkI (skip) + 7Vv5bYFi7uQ
+- 1 new source (1 file, deepened: false): human-capital economy (3.7% farmers feed 95%, diamonds+defense specialization under constraint).
+- 1 skipped: 7Var8lksxkI — Illustrator tutorial, tool mechanics only.
+- CHECKED 466 FAILED 0; 199 done of 5000.

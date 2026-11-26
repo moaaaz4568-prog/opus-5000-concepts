@@ -2557,7 +2557,8 @@
       "code": "7Var8lksxkI",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7Var8lksxkI_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "no independent idea: step-by-step Illustrator mountain-poster tutorial (tool mechanics only, same class as prior skips 6bVk-HytCew)"
     },
     {
       "batch": 103,
@@ -2587,7 +2588,10 @@
       "code": "7Vv5bYFi7uQ",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7Vv5bYFi7uQ_ar.md",
-      "status": "pending"
+      "status": "done",
+      "concept_files": [
+        "C_7Vv5bYFi7uQ_01.md"
+      ]
     },
     {
       "batch": 103,
