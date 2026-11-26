@@ -3214,7 +3214,8 @@
       "code": "7lipT3kJH8Q",
       "type": "yt",
       "canonical_path": "/home/hatch/workspace/knowledge-forge/namespaces/social-ar/sources/S_yt_7lipT3kJH8Q_ar.md",
-      "status": "pending"
+      "status": "skipped",
+      "skip_reason": "102-word transcript fragment (below extractable threshold): career advice snippet about being known for solutions in a niche rather than a tool/country; no standalone concept (27th documented skip)"
     },
     {
       "batch": 103,

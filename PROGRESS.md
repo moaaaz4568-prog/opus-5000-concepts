@@ -255,3 +255,5 @@
 - 1 source (2 files, deepened: false): one offer/one platform until $1M; money first audience second (150 YT videos + 900 shorts as funnel); results non-negotiable (students earn 5x minimum), trust-recession is bogus, 90/10 content, one revenue action (launches over sales calls, no pressure selling).
 ## 2026-11-26 (Opus) — batch 7kcVd9DrtHI
 - 1 source (2 files, deepened: false): don't route traffic to the homepage (route/industry case study; 1.4 pages/session, 40% continue) — per-service landing pages at homepage quality; future: a thousand homepages, per-client personalization, sell intimately as info access is commoditized.
+## 2026-11-26 (Opus) — batch 7lipT3kJH8Q (skip)
+- 1 skipped source: 102-word fragment (below extractable threshold) — snippet on being known for solutions in a niche vs a tool/country; no standalone concept.
